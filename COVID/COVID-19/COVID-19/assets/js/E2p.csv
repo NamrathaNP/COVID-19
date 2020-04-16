@@ -1,0 +1,703 @@
+State,Event,Patient,Status
+Andaman and Nicobar Islands,E0,956,Hospitalized
+Andaman and Nicobar Islands,E0,957,Hospitalized
+Andhra Pradesh,E0,1172,Hospitalized
+Andhra Pradesh,E0,1173,Hospitalized
+Andhra Pradesh,E0,1404,Hospitalized
+Andhra Pradesh,E0,1406,Hospitalized
+Andhra Pradesh,E0,1407,Hospitalized
+Andhra Pradesh,E0,1409,Hospitalized
+Andhra Pradesh,E0,1410,Hospitalized
+Andhra Pradesh,E0,1411,Hospitalized
+Andhra Pradesh,E0,1412,Hospitalized
+Andhra Pradesh,E0,1413,Hospitalized
+Andhra Pradesh,E0,1414,Hospitalized
+Andhra Pradesh,E0,1415,Hospitalized
+Andhra Pradesh,E0,1416,Hospitalized
+Andhra Pradesh,E0,1610,Hospitalized
+Andhra Pradesh,E0,1611,Hospitalized
+Andhra Pradesh,E0,1612,Hospitalized
+Andhra Pradesh,E0,1613,Hospitalized
+Andhra Pradesh,E0,1669,Hospitalized
+Andhra Pradesh,E0,1670,Hospitalized
+Andhra Pradesh,E0,1671,Hospitalized
+Andhra Pradesh,E0,1672,Hospitalized
+Andhra Pradesh,E0,1673,Hospitalized
+Andhra Pradesh,E0,1674,Hospitalized
+Andhra Pradesh,E0,1675,Hospitalized
+Andhra Pradesh,E0,1676,Hospitalized
+Andhra Pradesh,E0,1677,Hospitalized
+Andhra Pradesh,E0,1678,Hospitalized
+Andhra Pradesh,E0,1679,Hospitalized
+Andhra Pradesh,E0,1680,Hospitalized
+Andhra Pradesh,E0,1681,Hospitalized
+Andhra Pradesh,E0,1682,Hospitalized
+Andhra Pradesh,E0,1683,Hospitalized
+Andhra Pradesh,E0,1684,Hospitalized
+Andhra Pradesh,E0,1685,Hospitalized
+Andhra Pradesh,E0,1686,Hospitalized
+Andhra Pradesh,E0,1687,Hospitalized
+Andhra Pradesh,E0,1688,Hospitalized
+Andhra Pradesh,E0,1689,Hospitalized
+Andhra Pradesh,E0,1690,Hospitalized
+Andhra Pradesh,E0,1691,Hospitalized
+Andhra Pradesh,E0,1692,Hospitalized
+Andhra Pradesh,E0,1693,Hospitalized
+Andhra Pradesh,E0,1694,Hospitalized
+Andhra Pradesh,E0,1695,Hospitalized
+Andhra Pradesh,E0,1696,Hospitalized
+Andhra Pradesh,E0,1697,Hospitalized
+Andhra Pradesh,E0,1698,Hospitalized
+Andhra Pradesh,E0,1699,Hospitalized
+Andhra Pradesh,E0,1700,Hospitalized
+Andhra Pradesh,E0,1701,Hospitalized
+Andhra Pradesh,E0,1702,Hospitalized
+Andhra Pradesh,E0,1703,Hospitalized
+Andhra Pradesh,E0,1704,Hospitalized
+Andhra Pradesh,E0,1705,Hospitalized
+Andhra Pradesh,E0,1706,Hospitalized
+Andhra Pradesh,E0,1707,Hospitalized
+Andhra Pradesh,E0,1708,Hospitalized
+Andhra Pradesh,E0,1709,Hospitalized
+Andhra Pradesh,E0,1710,Hospitalized
+Andhra Pradesh,E0,1711,Hospitalized
+Arunachal Pradesh,E0,2094,Hospitalized
+Assam,E0,1722,Hospitalized
+Assam,E0,1723,Hospitalized
+Assam,E0,1724,Hospitalized
+Assam,E0,1725,Hospitalized
+Assam,E0,1967,Hospitalized
+Assam,E0,1968,Hospitalized
+Assam,E0,1969,Hospitalized
+Assam,E0,1970,Hospitalized
+Assam,E0,1971,Hospitalized
+Assam,E0,1972,Hospitalized
+Assam,E0,1973,Hospitalized
+Assam,E0,1974,Hospitalized
+Assam,E0,2846,Hospitalized
+Assam,E0,2847,Hospitalized
+Assam,E0,2848,Hospitalized
+Assam,E0,2849,Hospitalized
+Assam,E0,3106,Hospitalized
+Assam,E0,3107,Hospitalized
+Assam,E0,3108,Hospitalized
+Assam,E0,3109,Hospitalized
+Assam,E0,3210,Hospitalized
+Assam,E0,3572,Hospitalized
+Chhattisgarh,E0,3211,Hospitalized
+Delhi,E0,1122,Hospitalized
+Delhi,E0,1123,Hospitalized
+Delhi,E0,1124,Hospitalized
+Delhi,E0,1125,Hospitalized
+Delhi,E0,1126,Hospitalized
+Delhi,E0,1127,Hospitalized
+Delhi,E0,1282,Hospitalized
+Delhi,E0,1283,Hospitalized
+Delhi,E0,1284,Hospitalized
+Delhi,E0,1285,Hospitalized
+Delhi,E0,1286,Hospitalized
+Delhi,E0,1287,Hospitalized
+Delhi,E0,1288,Hospitalized
+Delhi,E0,1289,Hospitalized
+Delhi,E0,1290,Hospitalized
+Delhi,E0,1291,Hospitalized
+Delhi,E0,1292,Hospitalized
+Delhi,E0,1293,Hospitalized
+Delhi,E0,1294,Hospitalized
+Delhi,E0,1295,Hospitalized
+Delhi,E0,1296,Hospitalized
+Delhi,E0,1297,Hospitalized
+Delhi,E0,1298,Hospitalized
+Delhi,E0,1299,Hospitalized
+Gujarat,E0,3710,Hospitalized
+Gujarat,E0,3711,Hospitalized
+Gujarat,E0,3712,Hospitalized
+Gujarat,E0,3713,Hospitalized
+Gujarat,E0,3714,Hospitalized
+Gujarat,E0,3720,Hospitalized
+Himachal Pradesh,E0,3790,Hospitalized
+Himachal Pradesh,E0,3791,Hospitalized
+Himachal Pradesh,E0,3792,Hospitalized
+Himachal Pradesh,E0,3793,Hospitalized
+Himachal Pradesh,E0,3794,Hospitalized
+Himachal Pradesh,E0,3795,Hospitalized
+Jammu and Kashmir,E0,531,Deceased
+Jammu and Kashmir,E0,783,Hospitalized
+Jammu and Kashmir,E0,784,Hospitalized
+Karnataka,E0,758,Deceased
+Karnataka,E0,2103,Hospitalized
+Karnataka,E0,2104,Hospitalized
+Karnataka,E0,2105,Hospitalized
+Karnataka,E0,2106,Hospitalized
+Karnataka,E0,2107,Hospitalized
+Karnataka,E0,2108,Hospitalized
+Karnataka,E0,2109,Hospitalized
+Karnataka,E0,2110,Hospitalized
+Karnataka,E0,2111,Hospitalized
+Karnataka,E0,2112,Hospitalized
+Karnataka,E0,2113,Hospitalized
+Karnataka,E0,2890,Hospitalized
+Karnataka,E0,2891,Hospitalized
+Karnataka,E0,2892,Hospitalized
+Karnataka,E0,3246,Hospitalized
+Karnataka,E0,3247,Hospitalized
+Karnataka,E0,3832,Hospitalized
+Karnataka,E0,3833,Hospitalized
+Karnataka,E0,3834,Hospitalized
+Karnataka,E0,3835,Hospitalized
+Karnataka,E0,3836,Hospitalized
+Kerala,E0,2212,Hospitalized
+Kerala,E0,2215,Hospitalized
+Kerala,E0,3456,Hospitalized
+Kerala,E0,3825,Hospitalized
+Kerala,E0,3826,Hospitalized
+Kerala,E0,3827,Hospitalized
+Kerala,E0,3828,Hospitalized
+Maharashtra,E0,1500,Hospitalized
+Maharashtra,E0,1501,Hospitalized
+Maharashtra,E0,2527,Hospitalized
+Maharashtra,E0,2531,Hospitalized
+Maharashtra,E0,2532,Hospitalized
+Maharashtra,E0,2533,Hospitalized
+Manipur,E0,2015,Hospitalized
+Puducherry,E0,1659,Hospitalized
+Puducherry,E0,1660,Hospitalized
+Punjab,E0,2975,Hospitalized
+Punjab,E0,2976,Hospitalized
+Punjab,E0,3207,Hospitalized
+Punjab,E0,3208,Hospitalized
+Punjab,E0,3209,Hospitalized
+Rajasthan,E0,1999,Hospitalized
+Rajasthan,E0,2000,Hospitalized
+Rajasthan,E0,2001,Hospitalized
+Rajasthan,E0,2002,Hospitalized
+Rajasthan,E0,2003,Hospitalized
+Rajasthan,E0,2004,Hospitalized
+Rajasthan,E0,2005,Hospitalized
+Rajasthan,E0,2006,Hospitalized
+Rajasthan,E0,2007,Hospitalized
+Rajasthan,E0,2008,Hospitalized
+Rajasthan,E0,2009,Hospitalized
+Rajasthan,E0,2010,Hospitalized
+Rajasthan,E0,2065,Hospitalized
+Rajasthan,E0,2551,Hospitalized
+Rajasthan,E0,2552,Hospitalized
+Rajasthan,E0,3230,Hospitalized
+Rajasthan,E0,3231,Hospitalized
+Rajasthan,E0,3725,Hospitalized
+Tamil Nadu,E0,1516,Hospitalized
+Tamil Nadu,E0,1517,Hospitalized
+Tamil Nadu,E0,1518,Hospitalized
+Tamil Nadu,E0,1519,Hospitalized
+Tamil Nadu,E0,1520,Hospitalized
+Tamil Nadu,E0,1521,Hospitalized
+Tamil Nadu,E0,1522,Hospitalized
+Tamil Nadu,E0,1523,Hospitalized
+Tamil Nadu,E0,1524,Hospitalized
+Tamil Nadu,E0,1525,Hospitalized
+Tamil Nadu,E0,1526,Hospitalized
+Tamil Nadu,E0,1527,Hospitalized
+Tamil Nadu,E0,1528,Hospitalized
+Tamil Nadu,E0,1529,Hospitalized
+Tamil Nadu,E0,1530,Hospitalized
+Tamil Nadu,E0,1531,Hospitalized
+Tamil Nadu,E0,1532,Hospitalized
+Tamil Nadu,E0,1533,Hospitalized
+Tamil Nadu,E0,1534,Hospitalized
+Tamil Nadu,E0,1535,Hospitalized
+Tamil Nadu,E0,1536,Hospitalized
+Tamil Nadu,E0,1537,Hospitalized
+Tamil Nadu,E0,1538,Hospitalized
+Tamil Nadu,E0,1539,Hospitalized
+Tamil Nadu,E0,1540,Hospitalized
+Tamil Nadu,E0,1541,Hospitalized
+Tamil Nadu,E0,1542,Hospitalized
+Tamil Nadu,E0,1543,Hospitalized
+Tamil Nadu,E0,1544,Hospitalized
+Tamil Nadu,E0,1545,Hospitalized
+Tamil Nadu,E0,1546,Hospitalized
+Tamil Nadu,E0,1547,Hospitalized
+Tamil Nadu,E0,1548,Hospitalized
+Tamil Nadu,E0,1549,Hospitalized
+Tamil Nadu,E0,1550,Hospitalized
+Tamil Nadu,E0,1551,Hospitalized
+Tamil Nadu,E0,1552,Hospitalized
+Tamil Nadu,E0,1553,Hospitalized
+Tamil Nadu,E0,1554,Hospitalized
+Tamil Nadu,E0,1555,Hospitalized
+Tamil Nadu,E0,1556,Hospitalized
+Tamil Nadu,E0,1557,Hospitalized
+Tamil Nadu,E0,1558,Hospitalized
+Tamil Nadu,E0,1559,Hospitalized
+Tamil Nadu,E0,1560,Hospitalized
+Tamil Nadu,E0,1761,Hospitalized
+Tamil Nadu,E0,1762,Hospitalized
+Tamil Nadu,E0,1763,Hospitalized
+Tamil Nadu,E0,1764,Hospitalized
+Tamil Nadu,E0,1765,Hospitalized
+Tamil Nadu,E0,1766,Hospitalized
+Tamil Nadu,E0,1767,Hospitalized
+Tamil Nadu,E0,1768,Hospitalized
+Tamil Nadu,E0,1769,Hospitalized
+Tamil Nadu,E0,1770,Hospitalized
+Tamil Nadu,E0,1771,Hospitalized
+Tamil Nadu,E0,1772,Hospitalized
+Tamil Nadu,E0,1773,Hospitalized
+Tamil Nadu,E0,1774,Hospitalized
+Tamil Nadu,E0,1775,Hospitalized
+Tamil Nadu,E0,1776,Hospitalized
+Tamil Nadu,E0,1777,Hospitalized
+Tamil Nadu,E0,1778,Hospitalized
+Tamil Nadu,E0,1779,Hospitalized
+Tamil Nadu,E0,1780,Hospitalized
+Tamil Nadu,E0,1781,Hospitalized
+Tamil Nadu,E0,1782,Hospitalized
+Tamil Nadu,E0,1783,Hospitalized
+Tamil Nadu,E0,1784,Hospitalized
+Tamil Nadu,E0,1785,Hospitalized
+Tamil Nadu,E0,1786,Hospitalized
+Tamil Nadu,E0,1787,Hospitalized
+Tamil Nadu,E0,1788,Hospitalized
+Tamil Nadu,E0,1789,Hospitalized
+Tamil Nadu,E0,1790,Hospitalized
+Tamil Nadu,E0,1791,Hospitalized
+Tamil Nadu,E0,1792,Hospitalized
+Tamil Nadu,E0,1793,Hospitalized
+Tamil Nadu,E0,1794,Hospitalized
+Tamil Nadu,E0,1795,Hospitalized
+Tamil Nadu,E0,1796,Hospitalized
+Tamil Nadu,E0,1797,Hospitalized
+Tamil Nadu,E0,1798,Hospitalized
+Tamil Nadu,E0,1799,Hospitalized
+Tamil Nadu,E0,1800,Hospitalized
+Tamil Nadu,E0,1801,Hospitalized
+Tamil Nadu,E0,1802,Hospitalized
+Tamil Nadu,E0,1803,Hospitalized
+Tamil Nadu,E0,1804,Hospitalized
+Tamil Nadu,E0,1805,Hospitalized
+Tamil Nadu,E0,1806,Hospitalized
+Tamil Nadu,E0,1807,Hospitalized
+Tamil Nadu,E0,1808,Hospitalized
+Tamil Nadu,E0,1809,Hospitalized
+Tamil Nadu,E0,1810,Hospitalized
+Tamil Nadu,E0,1811,Hospitalized
+Tamil Nadu,E0,1812,Hospitalized
+Tamil Nadu,E0,1813,Hospitalized
+Tamil Nadu,E0,1814,Hospitalized
+Tamil Nadu,E0,1815,Hospitalized
+Tamil Nadu,E0,1816,Hospitalized
+Tamil Nadu,E0,1817,Hospitalized
+Tamil Nadu,E0,1818,Hospitalized
+Tamil Nadu,E0,1819,Hospitalized
+Tamil Nadu,E0,1820,Hospitalized
+Tamil Nadu,E0,1821,Hospitalized
+Tamil Nadu,E0,1822,Hospitalized
+Tamil Nadu,E0,1823,Hospitalized
+Tamil Nadu,E0,1824,Hospitalized
+Tamil Nadu,E0,1825,Hospitalized
+Tamil Nadu,E0,1826,Hospitalized
+Tamil Nadu,E0,1827,Hospitalized
+Tamil Nadu,E0,1828,Hospitalized
+Tamil Nadu,E0,1829,Hospitalized
+Tamil Nadu,E0,1830,Hospitalized
+Tamil Nadu,E0,1831,Hospitalized
+Tamil Nadu,E0,1832,Hospitalized
+Tamil Nadu,E0,1833,Hospitalized
+Tamil Nadu,E0,1834,Hospitalized
+Tamil Nadu,E0,1835,Hospitalized
+Tamil Nadu,E0,1836,Hospitalized
+Tamil Nadu,E0,1837,Hospitalized
+Tamil Nadu,E0,1838,Hospitalized
+Tamil Nadu,E0,1839,Hospitalized
+Tamil Nadu,E0,1840,Hospitalized
+Tamil Nadu,E0,1841,Hospitalized
+Tamil Nadu,E0,1842,Hospitalized
+Tamil Nadu,E0,1843,Hospitalized
+Tamil Nadu,E0,1844,Hospitalized
+Tamil Nadu,E0,1845,Hospitalized
+Tamil Nadu,E0,1846,Hospitalized
+Tamil Nadu,E0,1847,Hospitalized
+Tamil Nadu,E0,1848,Hospitalized
+Tamil Nadu,E0,1849,Hospitalized
+Tamil Nadu,E0,1850,Hospitalized
+Tamil Nadu,E0,1851,Hospitalized
+Tamil Nadu,E0,1852,Hospitalized
+Tamil Nadu,E0,1853,Hospitalized
+Tamil Nadu,E0,1854,Hospitalized
+Tamil Nadu,E0,1855,Hospitalized
+Tamil Nadu,E0,1856,Hospitalized
+Tamil Nadu,E0,1857,Hospitalized
+Tamil Nadu,E0,1858,Hospitalized
+Tamil Nadu,E0,1859,Hospitalized
+Tamil Nadu,E0,1860,Hospitalized
+Tamil Nadu,E0,1861,Hospitalized
+Tamil Nadu,E0,1862,Hospitalized
+Tamil Nadu,E0,1863,Hospitalized
+Tamil Nadu,E0,1864,Hospitalized
+Tamil Nadu,E0,1865,Hospitalized
+Tamil Nadu,E0,1866,Hospitalized
+Tamil Nadu,E0,1867,Hospitalized
+Tamil Nadu,E0,1868,Hospitalized
+Tamil Nadu,E0,1869,Hospitalized
+Tamil Nadu,E0,1870,Hospitalized
+Tamil Nadu,E0,2222,Hospitalized
+Tamil Nadu,E0,2223,Hospitalized
+Tamil Nadu,E0,2224,Hospitalized
+Tamil Nadu,E0,2225,Hospitalized
+Tamil Nadu,E0,2226,Hospitalized
+Tamil Nadu,E0,2227,Hospitalized
+Tamil Nadu,E0,2228,Hospitalized
+Tamil Nadu,E0,2229,Hospitalized
+Tamil Nadu,E0,2230,Hospitalized
+Tamil Nadu,E0,2231,Hospitalized
+Tamil Nadu,E0,2232,Hospitalized
+Tamil Nadu,E0,2233,Hospitalized
+Tamil Nadu,E0,2234,Hospitalized
+Tamil Nadu,E0,2235,Hospitalized
+Tamil Nadu,E0,2236,Hospitalized
+Tamil Nadu,E0,2237,Hospitalized
+Tamil Nadu,E0,2238,Hospitalized
+Tamil Nadu,E0,2239,Hospitalized
+Tamil Nadu,E0,2240,Hospitalized
+Tamil Nadu,E0,2241,Hospitalized
+Tamil Nadu,E0,2242,Hospitalized
+Tamil Nadu,E0,2243,Hospitalized
+Tamil Nadu,E0,2244,Hospitalized
+Tamil Nadu,E0,2245,Hospitalized
+Tamil Nadu,E0,2246,Hospitalized
+Tamil Nadu,E0,2247,Hospitalized
+Tamil Nadu,E0,2248,Hospitalized
+Tamil Nadu,E0,2249,Hospitalized
+Tamil Nadu,E0,2250,Hospitalized
+Tamil Nadu,E0,2251,Hospitalized
+Tamil Nadu,E0,2252,Hospitalized
+Tamil Nadu,E0,2253,Hospitalized
+Tamil Nadu,E0,2254,Hospitalized
+Tamil Nadu,E0,2255,Hospitalized
+Tamil Nadu,E0,2256,Hospitalized
+Tamil Nadu,E0,2257,Hospitalized
+Tamil Nadu,E0,2258,Hospitalized
+Tamil Nadu,E0,2259,Hospitalized
+Tamil Nadu,E0,2260,Hospitalized
+Tamil Nadu,E0,2261,Hospitalized
+Tamil Nadu,E0,2262,Hospitalized
+Tamil Nadu,E0,2263,Hospitalized
+Tamil Nadu,E0,2264,Hospitalized
+Tamil Nadu,E0,2265,Hospitalized
+Tamil Nadu,E0,2266,Hospitalized
+Tamil Nadu,E0,2267,Hospitalized
+Tamil Nadu,E0,2268,Hospitalized
+Tamil Nadu,E0,2269,Hospitalized
+Tamil Nadu,E0,2270,Hospitalized
+Tamil Nadu,E0,2271,Hospitalized
+Tamil Nadu,E0,2272,Hospitalized
+Tamil Nadu,E0,2273,Hospitalized
+Tamil Nadu,E0,2274,Hospitalized
+Tamil Nadu,E0,2275,Hospitalized
+Tamil Nadu,E0,2276,Hospitalized
+Tamil Nadu,E0,2277,Hospitalized
+Tamil Nadu,E0,2278,Hospitalized
+Tamil Nadu,E0,2279,Hospitalized
+Tamil Nadu,E0,2280,Hospitalized
+Tamil Nadu,E0,2281,Hospitalized
+Tamil Nadu,E0,2282,Hospitalized
+Tamil Nadu,E0,2283,Hospitalized
+Tamil Nadu,E0,2284,Hospitalized
+Tamil Nadu,E0,2285,Hospitalized
+Tamil Nadu,E0,2286,Hospitalized
+Tamil Nadu,E0,2287,Hospitalized
+Tamil Nadu,E0,2288,Hospitalized
+Tamil Nadu,E0,2289,Hospitalized
+Tamil Nadu,E0,2290,Hospitalized
+Tamil Nadu,E0,2291,Hospitalized
+Tamil Nadu,E0,2292,Hospitalized
+Tamil Nadu,E0,2293,Hospitalized
+Tamil Nadu,E0,2294,Hospitalized
+Tamil Nadu,E0,2744,Hospitalized
+Tamil Nadu,E0,2747,Hospitalized
+Tamil Nadu,E0,2748,Hospitalized
+Tamil Nadu,E0,2749,Hospitalized
+Tamil Nadu,E0,2750,Hospitalized
+Tamil Nadu,E0,2751,Hospitalized
+Tamil Nadu,E0,2752,Hospitalized
+Tamil Nadu,E0,2753,Hospitalized
+Tamil Nadu,E0,2754,Hospitalized
+Tamil Nadu,E0,2755,Hospitalized
+Tamil Nadu,E0,2756,Hospitalized
+Tamil Nadu,E0,2757,Hospitalized
+Tamil Nadu,E0,2758,Hospitalized
+Tamil Nadu,E0,2759,Hospitalized
+Tamil Nadu,E0,2760,Hospitalized
+Tamil Nadu,E0,2761,Hospitalized
+Tamil Nadu,E0,2762,Hospitalized
+Tamil Nadu,E0,2763,Hospitalized
+Tamil Nadu,E0,2764,Hospitalized
+Tamil Nadu,E0,2765,Hospitalized
+Tamil Nadu,E0,2766,Hospitalized
+Tamil Nadu,E0,2767,Hospitalized
+Tamil Nadu,E0,2768,Hospitalized
+Tamil Nadu,E0,2769,Hospitalized
+Tamil Nadu,E0,2770,Hospitalized
+Tamil Nadu,E0,2771,Hospitalized
+Tamil Nadu,E0,2772,Hospitalized
+Tamil Nadu,E0,2773,Hospitalized
+Tamil Nadu,E0,2774,Hospitalized
+Tamil Nadu,E0,2775,Hospitalized
+Tamil Nadu,E0,2776,Hospitalized
+Tamil Nadu,E0,2777,Hospitalized
+Tamil Nadu,E0,2778,Hospitalized
+Tamil Nadu,E0,2779,Hospitalized
+Tamil Nadu,E0,2780,Hospitalized
+Tamil Nadu,E0,2781,Hospitalized
+Tamil Nadu,E0,2782,Hospitalized
+Tamil Nadu,E0,2783,Hospitalized
+Tamil Nadu,E0,2784,Hospitalized
+Tamil Nadu,E0,2785,Hospitalized
+Tamil Nadu,E0,2786,Hospitalized
+Tamil Nadu,E0,2787,Hospitalized
+Tamil Nadu,E0,2788,Hospitalized
+Tamil Nadu,E0,2789,Hospitalized
+Tamil Nadu,E0,2790,Hospitalized
+Tamil Nadu,E0,2791,Hospitalized
+Tamil Nadu,E0,2792,Hospitalized
+Tamil Nadu,E0,2793,Hospitalized
+Tamil Nadu,E0,2794,Hospitalized
+Tamil Nadu,E0,2795,Hospitalized
+Tamil Nadu,E0,2796,Hospitalized
+Tamil Nadu,E0,2797,Hospitalized
+Tamil Nadu,E0,2798,Hospitalized
+Tamil Nadu,E0,2799,Hospitalized
+Tamil Nadu,E0,2800,Hospitalized
+Tamil Nadu,E0,2801,Hospitalized
+Tamil Nadu,E0,2802,Hospitalized
+Tamil Nadu,E0,2803,Hospitalized
+Tamil Nadu,E0,2804,Hospitalized
+Tamil Nadu,E0,2805,Hospitalized
+Tamil Nadu,E0,2806,Hospitalized
+Tamil Nadu,E0,2807,Hospitalized
+Tamil Nadu,E0,2808,Hospitalized
+Tamil Nadu,E0,2809,Hospitalized
+Tamil Nadu,E0,2810,Hospitalized
+Tamil Nadu,E0,2811,Hospitalized
+Tamil Nadu,E0,2812,Hospitalized
+Tamil Nadu,E0,2813,Hospitalized
+Tamil Nadu,E0,2814,Hospitalized
+Tamil Nadu,E0,2815,Hospitalized
+Tamil Nadu,E0,2816,Hospitalized
+Tamil Nadu,E0,2817,Hospitalized
+Tamil Nadu,E0,2818,Hospitalized
+Tamil Nadu,E0,2819,Hospitalized
+Tamil Nadu,E0,2820,Hospitalized
+Tamil Nadu,E0,2821,Hospitalized
+Tamil Nadu,E0,2822,Hospitalized
+Tamil Nadu,E0,2823,Hospitalized
+Tamil Nadu,E0,2824,Hospitalized
+Tamil Nadu,E0,2825,Hospitalized
+Tamil Nadu,E0,2826,Hospitalized
+Tamil Nadu,E0,2827,Hospitalized
+Tamil Nadu,E0,2828,Hospitalized
+Tamil Nadu,E0,2829,Hospitalized
+Tamil Nadu,E0,2830,Hospitalized
+Tamil Nadu,E0,2831,Hospitalized
+Tamil Nadu,E0,2832,Hospitalized
+Tamil Nadu,E0,2833,Hospitalized
+Tamil Nadu,E0,2834,Hospitalized
+Tamil Nadu,E0,2835,Hospitalized
+Tamil Nadu,E0,2836,Hospitalized
+Tamil Nadu,E0,2837,Hospitalized
+Tamil Nadu,E0,2838,Hospitalized
+Tamil Nadu,E0,2839,Hospitalized
+Tamil Nadu,E0,2840,Hospitalized
+Tamil Nadu,E0,2841,Hospitalized
+Tamil Nadu,E0,2842,Hospitalized
+Tamil Nadu,E0,2843,Hospitalized
+Tamil Nadu,E0,3382,Hospitalized
+Tamil Nadu,E0,3383,Hospitalized
+Tamil Nadu,E0,3384,Hospitalized
+Tamil Nadu,E0,3385,Hospitalized
+Tamil Nadu,E0,3386,Hospitalized
+Tamil Nadu,E0,3387,Hospitalized
+Tamil Nadu,E0,3388,Hospitalized
+Tamil Nadu,E0,3389,Hospitalized
+Tamil Nadu,E0,3390,Hospitalized
+Tamil Nadu,E0,3391,Hospitalized
+Tamil Nadu,E0,3392,Hospitalized
+Tamil Nadu,E0,3393,Hospitalized
+Tamil Nadu,E0,3394,Hospitalized
+Tamil Nadu,E0,3395,Hospitalized
+Tamil Nadu,E0,3396,Hospitalized
+Tamil Nadu,E0,3399,Hospitalized
+Tamil Nadu,E0,3400,Hospitalized
+Tamil Nadu,E0,3402,Hospitalized
+Tamil Nadu,E0,3403,Hospitalized
+Tamil Nadu,E0,3404,Hospitalized
+Tamil Nadu,E0,3405,Hospitalized
+Tamil Nadu,E0,3406,Hospitalized
+Tamil Nadu,E0,3407,Hospitalized
+Tamil Nadu,E0,3408,Hospitalized
+Tamil Nadu,E0,3409,Hospitalized
+Tamil Nadu,E0,3410,Hospitalized
+Tamil Nadu,E0,3411,Hospitalized
+Tamil Nadu,E0,3412,Hospitalized
+Tamil Nadu,E0,3413,Hospitalized
+Tamil Nadu,E0,3414,Hospitalized
+Tamil Nadu,E0,3415,Hospitalized
+Tamil Nadu,E0,3416,Hospitalized
+Tamil Nadu,E0,3417,Hospitalized
+Tamil Nadu,E0,3418,Hospitalized
+Tamil Nadu,E0,3419,Hospitalized
+Tamil Nadu,E0,3420,Hospitalized
+Tamil Nadu,E0,3421,Hospitalized
+Tamil Nadu,E0,3422,Hospitalized
+Tamil Nadu,E0,3423,Hospitalized
+Tamil Nadu,E0,3424,Hospitalized
+Tamil Nadu,E0,3425,Hospitalized
+Tamil Nadu,E0,3426,Hospitalized
+Tamil Nadu,E0,3427,Hospitalized
+Tamil Nadu,E0,3428,Hospitalized
+Tamil Nadu,E0,3429,Hospitalized
+Tamil Nadu,E0,3430,Hospitalized
+Tamil Nadu,E0,3431,Hospitalized
+Tamil Nadu,E0,3432,Hospitalized
+Tamil Nadu,E0,3433,Hospitalized
+Tamil Nadu,E0,3434,Hospitalized
+Tamil Nadu,E0,3435,Hospitalized
+Tamil Nadu,E0,3436,Hospitalized
+Tamil Nadu,E0,3437,Hospitalized
+Tamil Nadu,E0,3438,Hospitalized
+Tamil Nadu,E0,3439,Hospitalized
+Tamil Nadu,E0,3440,Hospitalized
+Tamil Nadu,E0,3441,Hospitalized
+Tamil Nadu,E0,3442,Hospitalized
+Tamil Nadu,E0,3443,Hospitalized
+Tamil Nadu,E0,3444,Hospitalized
+Tamil Nadu,E0,3445,Hospitalized
+Tamil Nadu,E0,3446,Hospitalized
+Tamil Nadu,E0,3447,Hospitalized
+Tamil Nadu,E0,3448,Hospitalized
+Tamil Nadu,E0,3449,Hospitalized
+Tamil Nadu,E0,3450,Hospitalized
+Tamil Nadu,E0,3451,Hospitalized
+Tamil Nadu,E0,3452,Hospitalized
+Tamil Nadu,E0,3837,Hospitalized
+Tamil Nadu,E0,3838,Hospitalized
+Tamil Nadu,E0,3839,Hospitalized
+Tamil Nadu,E0,3840,Hospitalized
+Tamil Nadu,E0,3841,Hospitalized
+Tamil Nadu,E0,3842,Hospitalized
+Tamil Nadu,E0,3843,Hospitalized
+Tamil Nadu,E0,3844,Hospitalized
+Tamil Nadu,E0,3845,Hospitalized
+Tamil Nadu,E0,3847,Hospitalized
+Tamil Nadu,E0,3848,Hospitalized
+Tamil Nadu,E0,3849,Hospitalized
+Tamil Nadu,E0,3850,Hospitalized
+Tamil Nadu,E0,3851,Hospitalized
+Tamil Nadu,E0,3852,Hospitalized
+Tamil Nadu,E0,3853,Hospitalized
+Tamil Nadu,E0,3854,Hospitalized
+Tamil Nadu,E0,3855,Hospitalized
+Tamil Nadu,E0,3856,Hospitalized
+Tamil Nadu,E0,3857,Hospitalized
+Tamil Nadu,E0,3858,Hospitalized
+Tamil Nadu,E0,3859,Hospitalized
+Tamil Nadu,E0,3860,Hospitalized
+Tamil Nadu,E0,3861,Hospitalized
+Tamil Nadu,E0,3862,Hospitalized
+Tamil Nadu,E0,3863,Hospitalized
+Tamil Nadu,E0,3864,Hospitalized
+Tamil Nadu,E0,3865,Hospitalized
+Tamil Nadu,E0,3866,Hospitalized
+Tamil Nadu,E0,3867,Hospitalized
+Tamil Nadu,E0,3868,Hospitalized
+Tamil Nadu,E0,3869,Hospitalized
+Tamil Nadu,E0,3870,Hospitalized
+Tamil Nadu,E0,3871,Hospitalized
+Tamil Nadu,E0,3872,Hospitalized
+Tamil Nadu,E0,3873,Hospitalized
+Tamil Nadu,E0,3874,Hospitalized
+Tamil Nadu,E0,3875,Hospitalized
+Tamil Nadu,E0,3876,Hospitalized
+Tamil Nadu,E0,3877,Hospitalized
+Tamil Nadu,E0,3878,Hospitalized
+Tamil Nadu,E0,3879,Hospitalized
+Tamil Nadu,E0,3880,Hospitalized
+Tamil Nadu,E0,3881,Hospitalized
+Tamil Nadu,E0,3882,Hospitalized
+Tamil Nadu,E0,3883,Hospitalized
+Tamil Nadu,E0,3884,Hospitalized
+Tamil Nadu,E0,3886,Hospitalized
+Tamil Nadu,E0,3887,Hospitalized
+Tamil Nadu,E0,3889,Hospitalized
+Tamil Nadu,E0,3890,Hospitalized
+Tamil Nadu,E0,3891,Hospitalized
+Tamil Nadu,E0,3892,Hospitalized
+Tamil Nadu,E0,3893,Hospitalized
+Tamil Nadu,E0,3894,Hospitalized
+Tamil Nadu,E0,3895,Hospitalized
+Tamil Nadu,E0,3896,Hospitalized
+Tamil Nadu,E0,3897,Hospitalized
+Tamil Nadu,E0,3898,Hospitalized
+Tamil Nadu,E0,3899,Hospitalized
+Tamil Nadu,E0,3902,Hospitalized
+Tamil Nadu,E0,3903,Hospitalized
+Tamil Nadu,E0,3904,Hospitalized
+Tamil Nadu,E0,3905,Hospitalized
+Tamil Nadu,E0,3906,Hospitalized
+Tamil Nadu,E0,3907,Hospitalized
+Tamil Nadu,E0,3908,Hospitalized
+Tamil Nadu,E0,3909,Hospitalized
+Tamil Nadu,E0,3910,Hospitalized
+Tamil Nadu,E0,3911,Hospitalized
+Tamil Nadu,E0,3912,Hospitalized
+Tamil Nadu,E0,3913,Hospitalized
+Tamil Nadu,E0,3914,Hospitalized
+Tamil Nadu,E0,3915,Hospitalized
+Tamil Nadu,E0,3916,Hospitalized
+Tamil Nadu,E0,3917,Hospitalized
+Tamil Nadu,E0,3918,Hospitalized
+Tamil Nadu,E0,3919,Hospitalized
+Tamil Nadu,E0,3920,Hospitalized
+Tamil Nadu,E0,3921,Hospitalized
+Tamil Nadu,E0,3922,Hospitalized
+Telangana,E0,141,Hospitalized
+Telangana,E0,163,Hospitalized
+Telangana,E0,164,Hospitalized
+Telangana,E0,165,Hospitalized
+Telangana,E0,166,Hospitalized
+Telangana,E0,167,Hospitalized
+Telangana,E0,168,Hospitalized
+Telangana,E0,169,Hospitalized
+Telangana,E0,252,Hospitalized
+Telangana,E0,253,Hospitalized
+Telangana,E0,1566,Hospitalized
+Telangana,E0,1567,Hospitalized
+Telangana,E0,1568,Hospitalized
+Telangana,E0,1569,Hospitalized
+Telangana,E0,1570,Hospitalized
+Telangana,E0,1571,Hospitalized
+Telangana,E0,1572,Hospitalized
+Telangana,E0,1573,Hospitalized
+Telangana,E0,1574,Hospitalized
+Telangana,E0,1575,Hospitalized
+Telangana,E0,1576,Hospitalized
+Telangana,E0,1577,Hospitalized
+Telangana,E0,1578,Hospitalized
+Telangana,E0,1579,Hospitalized
+Telangana,E0,1580,Hospitalized
+Uttar Pradesh,E0,2544,Hospitalized
+Uttar Pradesh,E0,2545,Hospitalized
+Uttar Pradesh,E1,675,Hospitalized
+Uttar Pradesh,E1,676,Hospitalized
+Uttar Pradesh,E1,677,Hospitalized
+Uttar Pradesh,E1,761,Hospitalized
+Uttar Pradesh,E1,762,Hospitalized
+Uttar Pradesh,E1,763,Hospitalized
+Uttar Pradesh,E1,933,Hospitalized
+Uttar Pradesh,E1,979,Hospitalized
+Uttar Pradesh,E1,980,Hospitalized
+Uttar Pradesh,E1,981,Hospitalized
+Uttar Pradesh,E1,1048,Hospitalized
+Uttarakhand,E0,2534,Hospitalized
+Uttarakhand,E0,2535,Hospitalized
+Uttarakhand,E0,2536,Hospitalized

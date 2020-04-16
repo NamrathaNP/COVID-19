@@ -1,0 +1,52 @@
+[
+  {
+    "clusters": 1,
+    "patient": "P436",
+    "highlights": "Attended Event in Delhi"
+  },
+  {
+    "clusters": 1,
+    "patient": "P863",
+    "highlights": "Attended Event in Delhi"
+  },
+  {
+    "clusters": 1,
+    "patient": "P516",
+    "highlights": "Attended Event in Delhi"
+  },
+  {
+    "clusters": 2,
+    "patient": "P880",
+    "highlights": "Imported Cases in the age group 60+"
+  },
+  {
+    "clusters": 2,
+    "patient": "P288",
+    "highlights": "Imported Cases in the age group 60+"
+  },
+  {
+    "clusters": 2,
+    "patient": "P937",
+    "highlights": "Imported Cases in the age group 60+"
+  },
+  {
+    "clusters": 3,
+    "patient": "P538",
+    "highlights": "Local Transmissions in Kasaragoda and Mumbai"
+  },
+  {
+    "clusters": 3,
+    "patient": "P313",
+    "highlights": "Local Transmissions in Kasaragoda and Mumbai"
+  },
+  {
+    "clusters": 3,
+    "patient": "P315",
+    "highlights": "Local Transmissions in Kasaragoda and Mumbai"
+  },
+  {
+    "clusters": 3,
+    "patient": "P316",
+    "highlights": "Local Transmissions in Kasaragoda and Mumbai"
+  }
+]

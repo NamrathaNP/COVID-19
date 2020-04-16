@@ -1,0 +1,42 @@
+[
+  {
+    "state": "Andaman and Nicobar Islands",
+    "source": ["P681", "hospitalised"],
+    "patient": [736, "diseased"]
+    
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "source": ["P681", "hospitalised"],
+    "patient": [853, "cured"]
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "source": ["P681", "hospitalised"],
+    "patient": [854, "infected"]
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "source": ["P681", "hospitalised"],
+    "patient": [855, "diseased"]
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "source": ["P681", "hospitalised"],
+    "patient": [856, "infected"]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "source": ["P1007", "hospitalised"],
+    "patient":[1008,"diseased"]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "source": ["P1406", "hospitalised"],
+    "patient": [1405, "diseased"]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "source": ["P196", "hospitalised"],
+    "patient": [397, "diseased"]
+  }]

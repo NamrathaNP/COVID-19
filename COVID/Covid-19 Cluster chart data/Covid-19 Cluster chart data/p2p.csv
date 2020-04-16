@@ -1,0 +1,323 @@
+State,Source,Patient
+Andaman and Nicobar Islands,P681,736
+Andaman and Nicobar Islands,P681,853
+Andaman and Nicobar Islands,P681,854
+Andaman and Nicobar Islands,P681,855
+Andaman and Nicobar Islands,P681,856
+Andhra Pradesh,P1007,1008
+Andhra Pradesh,P1406,1405
+Andhra Pradesh,P196,397
+Andhra Pradesh,P493,746
+Andhra Pradesh,P493,1137
+Andhra Pradesh,P493,1138
+Andhra Pradesh,P654,876
+Andhra Pradesh,P654,1005
+Andhra Pradesh,P654,1006
+Bihar,P348,679
+Bihar,P348,680
+Chandigarh,P172,224
+Chandigarh,P172,225
+Chandigarh,P172,226
+Chandigarh,P172,335
+Chandigarh,P225,437
+Delhi,P171,204
+Delhi,P171,205
+Delhi,P171,279
+Delhi,P171,280
+Delhi,P171,431
+Delhi,P171,432
+Delhi,P171,433
+Delhi,P171,674
+Delhi,P29,40
+Delhi,P64,72
+Gujarat,P269,423
+Gujarat,P269,424
+Gujarat,P269,428
+Gujarat,P269,441
+Gujarat,P295,354
+Gujarat,P295,427
+Gujarat,P295,519
+Gujarat,P295,520
+Gujarat,P295,567
+Haryana,P1443,1444
+Haryana,P1443,1445
+Haryana,P153,170
+Haryana,P172,287
+Haryana,P6,7
+Haryana,P6,8
+Haryana,P6,9
+Haryana,P6,10
+Haryana,P6,11
+Haryana,P6,12
+Haryana,P6,13
+Haryana,P6,14
+Haryana,P6,15
+Haryana,P6,16
+Haryana,P6,17
+Haryana,P6,18
+Haryana,P6,19
+Haryana,P6,20
+Jammu and Kashmir,P159,532
+Jammu and Kashmir,P41,84
+Jammu and Kashmir,P531,604
+Jammu and Kashmir,P531,605
+Jammu and Kashmir,P531,606
+Jammu and Kashmir,P531,607
+Jammu and Kashmir,P531,722
+Jammu and Kashmir,P531,885
+Jammu and Kashmir,P531,925
+Jammu and Kashmir,P531,926
+Jammu and Kashmir,P531,927
+Jammu and Kashmir,P531,928
+Jammu and Kashmir,P532,696
+Jammu and Kashmir,P532,697
+Jammu and Kashmir,P922,923
+Karnataka,P1017,2484
+Karnataka,P1215,2482
+Karnataka,P1215,2483
+Karnataka,P1316,1317
+Karnataka,P1316,1318
+Karnataka,P137,296
+Karnataka,P137,1455
+Karnataka,P1457,3234
+Karnataka,P150,528
+Karnataka,P1716,1718
+Karnataka,P1950,3243
+Karnataka,P285,382
+Karnataka,P285,515
+Karnataka,P285,913
+Karnataka,P285,914
+Karnataka,P285,915
+Karnataka,P285,916
+Karnataka,P285,917
+Karnataka,P297,473
+Karnataka,P297,636
+Karnataka,P297,637
+Karnataka,P385,692
+Karnataka,P385,757
+Karnataka,P385,759
+Karnataka,P385,912
+Karnataka,P51,52
+Karnataka,P51,53
+Karnataka,P513,955
+Karnataka,P514,909
+Karnataka,P514,910
+Karnataka,P514,911
+Karnataka,P629,954
+Karnataka,P630,631
+Karnataka,P632,633
+Karnataka,P634,635
+Karnataka,P689,1013
+Karnataka,P689,1014
+Karnataka,P689,1015
+Karnataka,P689,1016
+Karnataka,P689,1017
+Karnataka,P689,1212
+Karnataka,P689,1213
+Karnataka,P689,1214
+Karnataka,P689,1215
+Karnataka,P689,1421
+Karnataka,P689,1422
+Karnataka,P689,1716
+Karnataka,P689,1717
+Karnataka,P689,1950
+Karnataka,P689,1951
+Karnataka,P74,116
+Karnataka,P74,137
+Karnataka,P756,3232
+Karnataka,P756,3233
+Karnataka,P757,1418
+Karnataka,P758,1211
+Kerala,P108,228
+Kerala,P108,229
+Kerala,P108,230
+Kerala,P108,231
+Kerala,P108,232
+Kerala,P108,467
+Kerala,P117,241
+Kerala,P117,242
+Kerala,P117,243
+Kerala,P117,244
+Kerala,P1262,2208
+Kerala,P1262,2209
+Kerala,P1262,2210
+Kerala,P1263,2211
+Kerala,P316,709
+Kerala,P35,36
+Kerala,P35,37
+Kerala,P35,38
+Kerala,P35,39
+Kerala,"P35, P36, P37",49
+Kerala,"P35, P36, P37",50
+Kerala,"P36, P37, P38",56
+Kerala,"P36, P37, P38",57
+Kerala,"P36, P37, P38",58
+Kerala,"P36, P37, P38",59
+Kerala,P380,554
+Kerala,P380,623
+Kerala,P43,54
+Kerala,P43,55
+Kerala,P469,714
+Kerala,P56,555
+Kerala,P713,1262
+Kerala,P713,1263
+Kerala,P809,1450
+Ladakh,P132,290
+Ladakh,P146,145
+Madhya Pradesh,P248,249
+Madhya Pradesh,P248,250
+Madhya Pradesh,P248,394
+Madhya Pradesh,P2868,2869
+Madhya Pradesh,P2868,3072
+Madhya Pradesh,P2868,3073
+Madhya Pradesh,P2868,3074
+Madhya Pradesh,P2868,3075
+Madhya Pradesh,P2868,3076
+Madhya Pradesh,P2868,3099
+Madhya Pradesh,P2868,3100
+Madhya Pradesh,P2868,3101
+Madhya Pradesh,P2868,3102
+Madhya Pradesh,P2868,3103
+Madhya Pradesh,P362,586
+Madhya Pradesh,P573,574
+Madhya Pradesh,P573,575
+Madhya Pradesh,P577,776
+Maharashtra,P138,155
+Maharashtra,P1500,1507
+Maharashtra,P1500,1508
+Maharashtra,P1500,1509
+Maharashtra,P157,207
+Maharashtra,P272,343
+Maharashtra,P272,344
+Maharashtra,P272,345
+Maharashtra,P272,346
+Maharashtra,"P44, P45",60
+Maharashtra,"P44, P45",61
+Maharashtra,"P44, P45",62
+Maharashtra,"P44, P45",66
+Maharashtra,"P44, P45",67
+Maharashtra,P764,765
+Maharashtra,P764,766
+Maharashtra,P764,767
+Maharashtra,P764,768
+Maharashtra,P764,769
+Maharashtra,P764,770
+Maharashtra,P764,771
+Maharashtra,P764,772
+Maharashtra,P764,773
+Maharashtra,P764,774
+Maharashtra,P764,775
+Maharashtra,P77,93
+Maharashtra,P77,94
+Maharashtra,P78,88
+Maharashtra,P78,89
+Maharashtra,P78,98
+Maharashtra,P95,122
+Maharashtra,P95,123
+Punjab,P172,268
+Punjab,P182,304
+Punjab,P182,305
+Punjab,P182,306
+Punjab,P182,307
+Punjab,P182,308
+Punjab,P182,309
+Punjab,P182,311
+Punjab,P182,358
+Punjab,P182,359
+Punjab,P182,360
+Punjab,P182,361
+Punjab,P182,388
+Punjab,P182,488
+Punjab,P182,533
+Punjab,P182,534
+Punjab,P182,535
+Punjab,P201,267
+Punjab,P311,639
+Rajasthan,P1128,1129
+Rajasthan,P1128,1130
+Rajasthan,P160,161
+Rajasthan,P160,162
+Rajasthan,P218,219
+Rajasthan,P260,261
+Rajasthan,P260,262
+Rajasthan,P260,263
+Rajasthan,P260,264
+Rajasthan,P6,21
+Rajasthan,P726,737
+Rajasthan,P726,738
+Tamil Nadu,P1076,1077
+Tamil Nadu,P1076,1078
+Tamil Nadu,P1076,1079
+Tamil Nadu,P301,653
+Tamil Nadu,P301,750
+Tamil Nadu,P301,751
+Tamil Nadu,P301,1179
+Tamil Nadu,P301,1180
+Tamil Nadu,P301,1181
+Tamil Nadu,P301,1182
+Tamil Nadu,P301,1183
+Tamil Nadu,P301,1184
+Tamil Nadu,P301,1185
+Tamil Nadu,P301,1186
+Tamil Nadu,P301,1187
+Tamil Nadu,P301,1188
+Tamil Nadu,"P301, P302",502
+Tamil Nadu,P502,748
+Tamil Nadu,P502,749
+Tamil Nadu,P502,1174
+Tamil Nadu,P502,1175
+Tamil Nadu,P502,1176
+Tamil Nadu,P502,1177
+Tamil Nadu,P502,1178
+Tamil Nadu,P523,752
+Tamil Nadu,P596,597
+Tamil Nadu,P596,598
+Tamil Nadu,P596,599
+Tamil Nadu,P596,600
+Tamil Nadu,P653,1076
+Tamil Nadu,P717,718
+Tamil Nadu,P753,1390
+Tamil Nadu,P873,1389
+Telangana,P141,436
+Telangana,P191,299
+Telangana,P369,564
+Telangana,P370,570
+Telangana,P370,571
+Telangana,P525,646
+Telangana,P683,684
+Uttar Pradesh,P1131,1357
+Uttar Pradesh,P1131,1358
+Uttar Pradesh,P1131,1359
+Uttar Pradesh,P1131,1360
+Uttar Pradesh,P1131,1361
+Uttar Pradesh,P142,213
+Uttar Pradesh,P142,214
+Uttar Pradesh,P142,215
+Uttar Pradesh,P22,48
+Uttar Pradesh,P30,82
+Uttar Pradesh,P389,390
+Uttar Pradesh,P389,929
+Uttar Pradesh,P389,930
+Uttar Pradesh,P389,931
+Uttar Pradesh,P389,932
+Uttar Pradesh,P4,22
+Uttar Pradesh,P4,23
+Uttar Pradesh,P4,24
+Uttar Pradesh,P4,25
+Uttar Pradesh,P4,26
+Uttar Pradesh,P4,27
+Uttar Pradesh,P4,47
+Uttar Pradesh,P6,28
+Uttar Pradesh,P64,142
+Uttar Pradesh,P643,644
+Uttar Pradesh,P73,91
+Uttar Pradesh,P81,148
+Uttar Pradesh,P983,1018
+Uttar Pradesh,P983,1019
+Uttar Pradesh,P983,1020
+Uttar Pradesh,P983,1021
+West Bengal,P200,391
+West Bengal,P200,392
+West Bengal,P200,393
+West Bengal,P658,960
+West Bengal,P658,961

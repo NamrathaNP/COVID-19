@@ -1,0 +1,1615 @@
+
+
+  [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "source": ["P681", "hospitalised"],
+      "patient": [736, "diseased"]
+      
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "source": ["P681", "hospitalised"],
+      "patient": 853
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "source": ["P681", "hospitalised"],
+      "patient": 854
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "source": ["P681", "hospitalised"],
+      "patient": 855
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "source": ["P681", "hospitalised"],
+      "patient": 856
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "P1007",
+      "patient": 1008
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "P1406",
+      "patient": 1405
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "P196",
+      "patient": 397
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "P493",
+      "patient": 746
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "P493",
+      "patient": 1137
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "P493",
+      "patient": 1138
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "P654",
+      "patient": 876
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "P654",
+      "patient": 1005
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "P654",
+      "patient": 1006
+    },
+    {
+      "state": "Bihar",
+      "source": "P348",
+      "patient": 679
+    },
+    {
+      "state": "Bihar",
+      "source": "P348",
+      "patient": 680
+    },
+    {
+      "state": "Chandigarh",
+      "source": "P172",
+      "patient": 224
+    },
+    {
+      "state": "Chandigarh",
+      "source": "P172",
+      "patient": 225
+    },
+    {
+      "state": "Chandigarh",
+      "source": "P172",
+      "patient": 226
+    },
+    {
+      "state": "Chandigarh",
+      "source": "P172",
+      "patient": 335
+    },
+    {
+      "state": "Chandigarh",
+      "source": "P225",
+      "patient": 437
+    },
+    {
+      "state": "Delhi",
+      "source": "P171",
+      "patient": 204
+    },
+    {
+      "state": "Delhi",
+      "source": "P171",
+      "patient": 205
+    },
+    {
+      "state": "Delhi",
+      "source": "P171",
+      "patient": 279
+    },
+    {
+      "state": "Delhi",
+      "source": "P171",
+      "patient": 280
+    },
+    {
+      "state": "Delhi",
+      "source": "P171",
+      "patient": 431
+    },
+    {
+      "state": "Delhi",
+      "source": "P171",
+      "patient": 432
+    },
+    {
+      "state": "Delhi",
+      "source": "P171",
+      "patient": 433
+    },
+    {
+      "state": "Delhi",
+      "source": "P171",
+      "patient": 674
+    },
+    {
+      "state": "Delhi",
+      "source": "P29",
+      "patient": 40
+    },
+    {
+      "state": "Delhi",
+      "source": "P64",
+      "patient": 72
+    },
+    {
+      "state": "Gujarat",
+      "source": "P269",
+      "patient": 423
+    },
+    {
+      "state": "Gujarat",
+      "source": "P269",
+      "patient": 424
+    },
+    {
+      "state": "Gujarat",
+      "source": "P269",
+      "patient": 428
+    },
+    {
+      "state": "Gujarat",
+      "source": "P269",
+      "patient": 441
+    },
+    {
+      "state": "Gujarat",
+      "source": "P295",
+      "patient": 354
+    },
+    {
+      "state": "Gujarat",
+      "source": "P295",
+      "patient": 427
+    },
+    {
+      "state": "Gujarat",
+      "source": "P295",
+      "patient": 519
+    },
+    {
+      "state": "Gujarat",
+      "source": "P295",
+      "patient": 520
+    },
+    {
+      "state": "Gujarat",
+      "source": "P295",
+      "patient": 567
+    },
+    {
+      "state": "Haryana",
+      "source": "P1443",
+      "patient": 1444
+    },
+    {
+      "state": "Haryana",
+      "source": "P1443",
+      "patient": 1445
+    },
+    {
+      "state": "Haryana",
+      "source": "P153",
+      "patient": 170
+    },
+    {
+      "state": "Haryana",
+      "source": "P172",
+      "patient": 287
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 7
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 8
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 9
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 10
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 11
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 12
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 13
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 14
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 15
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 16
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 17
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 18
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 19
+    },
+    {
+      "state": "Haryana",
+      "source": "P6",
+      "patient": 20
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P159",
+      "patient": 532
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P41",
+      "patient": 84
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 604
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 605
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 606
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 607
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 722
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 885
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 925
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 926
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 927
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P531",
+      "patient": 928
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P532",
+      "patient": 696
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P532",
+      "patient": 697
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "source": "P922",
+      "patient": 923
+    },
+    {
+      "state": "Karnataka",
+      "source": "P1017",
+      "patient": 2484
+    },
+    {
+      "state": "Karnataka",
+      "source": "P1215",
+      "patient": 2482
+    },
+    {
+      "state": "Karnataka",
+      "source": "P1215",
+      "patient": 2483
+    },
+    {
+      "state": "Karnataka",
+      "source": "P1316",
+      "patient": 1317
+    },
+    {
+      "state": "Karnataka",
+      "source": "P1316",
+      "patient": 1318
+    },
+    {
+      "state": "Karnataka",
+      "source": "P137",
+      "patient": 296
+    },
+    {
+      "state": "Karnataka",
+      "source": "P137",
+      "patient": 1455
+    },
+    {
+      "state": "Karnataka",
+      "source": "P1457",
+      "patient": 3234
+    },
+    {
+      "state": "Karnataka",
+      "source": "P150",
+      "patient": 528
+    },
+    {
+      "state": "Karnataka",
+      "source": "P1716",
+      "patient": 1718
+    },
+    {
+      "state": "Karnataka",
+      "source": "P1950",
+      "patient": 3243
+    },
+    {
+      "state": "Karnataka",
+      "source": "P285",
+      "patient": 382
+    },
+    {
+      "state": "Karnataka",
+      "source": "P285",
+      "patient": 515
+    },
+    {
+      "state": "Karnataka",
+      "source": "P285",
+      "patient": 913
+    },
+    {
+      "state": "Karnataka",
+      "source": "P285",
+      "patient": 914
+    },
+    {
+      "state": "Karnataka",
+      "source": "P285",
+      "patient": 915
+    },
+    {
+      "state": "Karnataka",
+      "source": "P285",
+      "patient": 916
+    },
+    {
+      "state": "Karnataka",
+      "source": "P285",
+      "patient": 917
+    },
+    {
+      "state": "Karnataka",
+      "source": "P297",
+      "patient": 473
+    },
+    {
+      "state": "Karnataka",
+      "source": "P297",
+      "patient": 636
+    },
+    {
+      "state": "Karnataka",
+      "source": "P297",
+      "patient": 637
+    },
+    {
+      "state": "Karnataka",
+      "source": "P385",
+      "patient": 692
+    },
+    {
+      "state": "Karnataka",
+      "source": "P385",
+      "patient": 757
+    },
+    {
+      "state": "Karnataka",
+      "source": "P385",
+      "patient": 759
+    },
+    {
+      "state": "Karnataka",
+      "source": "P385",
+      "patient": 912
+    },
+    {
+      "state": "Karnataka",
+      "source": "P51",
+      "patient": 52
+    },
+    {
+      "state": "Karnataka",
+      "source": "P51",
+      "patient": 53
+    },
+    {
+      "state": "Karnataka",
+      "source": "P513",
+      "patient": 955
+    },
+    {
+      "state": "Karnataka",
+      "source": "P514",
+      "patient": 909
+    },
+    {
+      "state": "Karnataka",
+      "source": "P514",
+      "patient": 910
+    },
+    {
+      "state": "Karnataka",
+      "source": "P514",
+      "patient": 911
+    },
+    {
+      "state": "Karnataka",
+      "source": "P629",
+      "patient": 954
+    },
+    {
+      "state": "Karnataka",
+      "source": "P630",
+      "patient": 631
+    },
+    {
+      "state": "Karnataka",
+      "source": "P632",
+      "patient": 633
+    },
+    {
+      "state": "Karnataka",
+      "source": "P634",
+      "patient": 635
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1013
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1014
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1015
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1016
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1017
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1212
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1213
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1214
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1215
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1421
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1422
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1716
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1717
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1950
+    },
+    {
+      "state": "Karnataka",
+      "source": "P689",
+      "patient": 1951
+    },
+    {
+      "state": "Karnataka",
+      "source": "P74",
+      "patient": 116
+    },
+    {
+      "state": "Karnataka",
+      "source": "P74",
+      "patient": 137
+    },
+    {
+      "state": "Karnataka",
+      "source": "P756",
+      "patient": 3232
+    },
+    {
+      "state": "Karnataka",
+      "source": "P756",
+      "patient": 3233
+    },
+    {
+      "state": "Karnataka",
+      "source": "P757",
+      "patient": 1418
+    },
+    {
+      "state": "Karnataka",
+      "source": "P758",
+      "patient": 1211
+    },
+    {
+      "state": "Kerala",
+      "source": "P108",
+      "patient": 228
+    },
+    {
+      "state": "Kerala",
+      "source": "P108",
+      "patient": 229
+    },
+    {
+      "state": "Kerala",
+      "source": "P108",
+      "patient": 230
+    },
+    {
+      "state": "Kerala",
+      "source": "P108",
+      "patient": 231
+    },
+    {
+      "state": "Kerala",
+      "source": "P108",
+      "patient": 232
+    },
+    {
+      "state": "Kerala",
+      "source": "P108",
+      "patient": 467
+    },
+    {
+      "state": "Kerala",
+      "source": "P117",
+      "patient": 241
+    },
+    {
+      "state": "Kerala",
+      "source": "P117",
+      "patient": 242
+    },
+    {
+      "state": "Kerala",
+      "source": "P117",
+      "patient": 243
+    },
+    {
+      "state": "Kerala",
+      "source": "P117",
+      "patient": 244
+    },
+    {
+      "state": "Kerala",
+      "source": "P1262",
+      "patient": 2208
+    },
+    {
+      "state": "Kerala",
+      "source": "P1262",
+      "patient": 2209
+    },
+    {
+      "state": "Kerala",
+      "source": "P1262",
+      "patient": 2210
+    },
+    {
+      "state": "Kerala",
+      "source": "P1263",
+      "patient": 2211
+    },
+    {
+      "state": "Kerala",
+      "source": "P316",
+      "patient": 709
+    },
+    {
+      "state": "Kerala",
+      "source": "P35",
+      "patient": 36
+    },
+    {
+      "state": "Kerala",
+      "source": "P35",
+      "patient": 37
+    },
+    {
+      "state": "Kerala",
+      "source": "P35",
+      "patient": 38
+    },
+    {
+      "state": "Kerala",
+      "source": "P35",
+      "patient": 39
+    },
+    {
+      "state": "Kerala",
+      "source": "P35, P36, P37",
+      "patient": 49
+    },
+    {
+      "state": "Kerala",
+      "source": "P35, P36, P37",
+      "patient": 50
+    },
+    {
+      "state": "Kerala",
+      "source": "P36, P37, P38",
+      "patient": 56
+    },
+    {
+      "state": "Kerala",
+      "source": "P36, P37, P38",
+      "patient": 57
+    },
+    {
+      "state": "Kerala",
+      "source": "P36, P37, P38",
+      "patient": 58
+    },
+    {
+      "state": "Kerala",
+      "source": "P36, P37, P38",
+      "patient": 59
+    },
+    {
+      "state": "Kerala",
+      "source": "P380",
+      "patient": 554
+    },
+    {
+      "state": "Kerala",
+      "source": "P380",
+      "patient": 623
+    },
+    {
+      "state": "Kerala",
+      "source": "P43",
+      "patient": 54
+    },
+    {
+      "state": "Kerala",
+      "source": "P43",
+      "patient": 55
+    },
+    {
+      "state": "Kerala",
+      "source": "P469",
+      "patient": 714
+    },
+    {
+      "state": "Kerala",
+      "source": "P56",
+      "patient": 555
+    },
+    {
+      "state": "Kerala",
+      "source": "P713",
+      "patient": 1262
+    },
+    {
+      "state": "Kerala",
+      "source": "P713",
+      "patient": 1263
+    },
+    {
+      "state": "Kerala",
+      "source": "P809",
+      "patient": 1450
+    },
+    {
+      "state": "Ladakh",
+      "source": "P132",
+      "patient": 290
+    },
+    {
+      "state": "Ladakh",
+      "source": "P146",
+      "patient": 145
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P248",
+      "patient": 249
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P248",
+      "patient": 250
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P248",
+      "patient": 394
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 2869
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3072
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3073
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3074
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3075
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3076
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3099
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3100
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3101
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3102
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P2868",
+      "patient": 3103
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P362",
+      "patient": 586
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P573",
+      "patient": 574
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P573",
+      "patient": 575
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "P577",
+      "patient": 776
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P138",
+      "patient": 155
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P1500",
+      "patient": 1507
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P1500",
+      "patient": 1508
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P1500",
+      "patient": 1509
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P157",
+      "patient": 207
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P272",
+      "patient": 343
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P272",
+      "patient": 344
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P272",
+      "patient": 345
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P272",
+      "patient": 346
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P44, P45",
+      "patient": 60
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P44, P45",
+      "patient": 61
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P44, P45",
+      "patient": 62
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P44, P45",
+      "patient": 66
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P44, P45",
+      "patient": 67
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 765
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 766
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 767
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 768
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 769
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 770
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 771
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 772
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 773
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 774
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P764",
+      "patient": 775
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P77",
+      "patient": 93
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P77",
+      "patient": 94
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P78",
+      "patient": 88
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P78",
+      "patient": 89
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P78",
+      "patient": 98
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P95",
+      "patient": 122
+    },
+    {
+      "state": "Maharashtra",
+      "source": "P95",
+      "patient": 123
+    },
+    {
+      "state": "Punjab",
+      "source": "P172",
+      "patient": 268
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 304
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 305
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 306
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 307
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 308
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 309
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 311
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 358
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 359
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 360
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 361
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 388
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 488
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 533
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 534
+    },
+    {
+      "state": "Punjab",
+      "source": "P182",
+      "patient": 535
+    },
+    {
+      "state": "Punjab",
+      "source": "P201",
+      "patient": 267
+    },
+    {
+      "state": "Punjab",
+      "source": "P311",
+      "patient": 639
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P1128",
+      "patient": 1129
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P1128",
+      "patient": 1130
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P160",
+      "patient": 161
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P160",
+      "patient": 162
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P218",
+      "patient": 219
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P260",
+      "patient": 261
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P260",
+      "patient": 262
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P260",
+      "patient": 263
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P260",
+      "patient": 264
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P6",
+      "patient": 21
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P726",
+      "patient": 737
+    },
+    {
+      "state": "Rajasthan",
+      "source": "P726",
+      "patient": 738
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P1076",
+      "patient": 1077
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P1076",
+      "patient": 1078
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P1076",
+      "patient": 1079
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 653
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 750
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 751
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1179
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1180
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1181
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1182
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1183
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1184
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1185
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1186
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1187
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301",
+      "patient": 1188
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P301, P302",
+      "patient": 502
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P502",
+      "patient": 748
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P502",
+      "patient": 749
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P502",
+      "patient": 1174
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P502",
+      "patient": 1175
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P502",
+      "patient": 1176
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P502",
+      "patient": 1177
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P502",
+      "patient": 1178
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P523",
+      "patient": 752
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P596",
+      "patient": 597
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P596",
+      "patient": 598
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P596",
+      "patient": 599
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P596",
+      "patient": 600
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P653",
+      "patient": 1076
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P717",
+      "patient": 718
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P753",
+      "patient": 1390
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "P873",
+      "patient": 1389
+    },
+    {
+      "state": "Telangana",
+      "source": "P141",
+      "patient": 436
+    },
+    {
+      "state": "Telangana",
+      "source": "P191",
+      "patient": 299
+    },
+    {
+      "state": "Telangana",
+      "source": "P369",
+      "patient": 564
+    },
+    {
+      "state": "Telangana",
+      "source": "P370",
+      "patient": 570
+    },
+    {
+      "state": "Telangana",
+      "source": "P370",
+      "patient": 571
+    },
+    {
+      "state": "Telangana",
+      "source": "P525",
+      "patient": 646
+    },
+    {
+      "state": "Telangana",
+      "source": "P683",
+      "patient": 684
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P1131",
+      "patient": 1357
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P1131",
+      "patient": 1358
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P1131",
+      "patient": 1359
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P1131",
+      "patient": 1360
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P1131",
+      "patient": 1361
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P142",
+      "patient": 213
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P142",
+      "patient": 214
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P142",
+      "patient": 215
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P22",
+      "patient": 48
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P30",
+      "patient": 82
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P389",
+      "patient": 390
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P389",
+      "patient": 929
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P389",
+      "patient": 930
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P389",
+      "patient": 931
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P389",
+      "patient": 932
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P4",
+      "patient": 22
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P4",
+      "patient": 23
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P4",
+      "patient": 24
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P4",
+      "patient": 25
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P4",
+      "patient": 26
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P4",
+      "patient": 27
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P4",
+      "patient": 47
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P6",
+      "patient": 28
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P64",
+      "patient": 142
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P643",
+      "patient": 644
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P73",
+      "patient": 91
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P81",
+      "patient": 148
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P983",
+      "patient": 1018
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P983",
+      "patient": 1019
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P983",
+      "patient": 1020
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "P983",
+      "patient": 1021
+    },
+    {
+      "state": "West Bengal",
+      "source": "P200",
+      "patient": 391
+    },
+    {
+      "state": "West Bengal",
+      "source": "P200",
+      "patient": 392
+    },
+    {
+      "state": "West Bengal",
+      "source": "P200",
+      "patient": 393
+    },
+    {
+      "state": "West Bengal",
+      "source": "P658",
+      "patient": 960
+    },
+    {
+      "state": "West Bengal",
+      "source": "P658",
+      "patient": 961
+    }
+  ]

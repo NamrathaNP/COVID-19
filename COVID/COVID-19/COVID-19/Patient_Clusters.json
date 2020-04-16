@@ -1,0 +1,12 @@
+[{
+  "Cluster1": {
+  "highlights" :["Attended Event in Delhi", "Local Transmissions in Kasaragoda and Mumbai"],
+  "patients": ["P436", "P437"] 
+},
+
+"Cluster2": {
+  "highlights" :["Attended Event in Delhi"],
+  "patients": ["P436", "P437"]
+}
+}
+]
