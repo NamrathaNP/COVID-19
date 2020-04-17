@@ -1,0 +1,323 @@
+State,Source,Patient,Patient_Status,Source_Status
+Andaman and Nicobar Islands,P681,736,Hospitalized,Hospitalized
+Andaman and Nicobar Islands,P681,853,Hospitalized,Hospitalized
+Andaman and Nicobar Islands,P681,854,Hospitalized,Hospitalized
+Andaman and Nicobar Islands,P681,855,Hospitalized,Hospitalized
+Andaman and Nicobar Islands,P681,856,Hospitalized,Hospitalized
+Andhra Pradesh,P1007,1008,Hospitalized,Hospitalized
+Andhra Pradesh,P1406,1405,Hospitalized,Hospitalized
+Andhra Pradesh,P196,397,Hospitalized,Hospitalized
+Andhra Pradesh,P493,746,Hospitalized,Hospitalized
+Andhra Pradesh,P493,1137,Hospitalized,Hospitalized
+Andhra Pradesh,P493,1138,Hospitalized,Hospitalized
+Andhra Pradesh,P654,876,Hospitalized,Hospitalized
+Andhra Pradesh,P654,1005,Hospitalized,Hospitalized
+Andhra Pradesh,P654,1006,Hospitalized,Hospitalized
+Bihar,P348,679,Hospitalized,Hospitalized
+Bihar,P348,680,Hospitalized,Hospitalized
+Chandigarh,P172,224,Hospitalized,Hospitalized
+Chandigarh,P172,225,Hospitalized,Hospitalized
+Chandigarh,P172,226,Hospitalized,Hospitalized
+Chandigarh,P172,335,Hospitalized,Hospitalized
+Chandigarh,P225,437,Hospitalized,Hospitalized
+Delhi,P171,204,Hospitalized,Hospitalized
+Delhi,P171,205,Hospitalized,Hospitalized
+Delhi,P171,279,Hospitalized,Hospitalized
+Delhi,P171,280,Hospitalized,Hospitalized
+Delhi,P171,431,Hospitalized,Hospitalized
+Delhi,P171,432,Hospitalized,Hospitalized
+Delhi,P171,433,Hospitalized,Hospitalized
+Delhi,P171,674,Hospitalized,Hospitalized
+Delhi,P29,40,Hospitalized,Hospitalized
+Delhi,P64,72,Deceased,Deceased
+Gujarat,P269,423,Hospitalized,Hospitalized
+Gujarat,P269,424,Hospitalized,Hospitalized
+Gujarat,P269,428,Hospitalized,Hospitalized
+Gujarat,P269,441,Hospitalized,Hospitalized
+Gujarat,P295,354,Hospitalized,Hospitalized
+Gujarat,P295,427,Hospitalized,Hospitalized
+Gujarat,P295,519,Hospitalized,Hospitalized
+Gujarat,P295,520,Hospitalized,Hospitalized
+Gujarat,P295,567,Hospitalized,Hospitalized
+Haryana,P1443,1444,Hospitalized,Hospitalized
+Haryana,P1443,1445,Hospitalized,Hospitalized
+Haryana,P153,170,Hospitalized,Hospitalized
+Haryana,P172,287,Hospitalized,Hospitalized
+Haryana,P6,7,Recovered,Recovered
+Haryana,P6,8,Recovered,Recovered
+Haryana,P6,9,Recovered,Recovered
+Haryana,P6,10,Recovered,Recovered
+Haryana,P6,11,Recovered,Recovered
+Haryana,P6,12,Recovered,Recovered
+Haryana,P6,13,Recovered,Recovered
+Haryana,P6,14,Recovered,Recovered
+Haryana,P6,15,Recovered,Recovered
+Haryana,P6,16,Recovered,Recovered
+Haryana,P6,17,Recovered,Recovered
+Haryana,P6,18,Recovered,Recovered
+Haryana,P6,19,Hospitalized,Hospitalized
+Haryana,P6,20,Hospitalized,Hospitalized
+Jammu and Kashmir,P159,532,Hospitalized,Hospitalized
+Jammu and Kashmir,P41,84,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,604,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,605,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,606,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,607,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,722,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,885,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,925,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,926,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,927,Hospitalized,Hospitalized
+Jammu and Kashmir,P531,928,Hospitalized,Hospitalized
+Jammu and Kashmir,P532,696,Hospitalized,Hospitalized
+Jammu and Kashmir,P532,697,Hospitalized,Hospitalized
+Jammu and Kashmir,P922,923,Hospitalized,Hospitalized
+Karnataka,P1017,2484,Hospitalized,Hospitalized
+Karnataka,P1215,2482,Hospitalized,Hospitalized
+Karnataka,P1215,2483,Hospitalized,Hospitalized
+Karnataka,P1316,1317,Hospitalized,Hospitalized
+Karnataka,P1316,1318,Hospitalized,Hospitalized
+Karnataka,P137,296,Hospitalized,Hospitalized
+Karnataka,P137,1455,Hospitalized,Hospitalized
+Karnataka,P1457,3234,Hospitalized,Hospitalized
+Karnataka,P150,528,Hospitalized,Hospitalized
+Karnataka,P1716,1718,Hospitalized,Hospitalized
+Karnataka,P1950,3243,Hospitalized,Hospitalized
+Karnataka,P285,382,Hospitalized,Hospitalized
+Karnataka,P285,515,Hospitalized,Hospitalized
+Karnataka,P285,913,Hospitalized,Hospitalized
+Karnataka,P285,914,Hospitalized,Hospitalized
+Karnataka,P285,915,Hospitalized,Hospitalized
+Karnataka,P285,916,Hospitalized,Hospitalized
+Karnataka,P285,917,Hospitalized,Hospitalized
+Karnataka,P297,473,Hospitalized,Hospitalized
+Karnataka,P297,636,Hospitalized,Hospitalized
+Karnataka,P297,637,Hospitalized,Hospitalized
+Karnataka,P385,692,Hospitalized,Hospitalized
+Karnataka,P385,757,Hospitalized,Hospitalized
+Karnataka,P385,759,Hospitalized,Hospitalized
+Karnataka,P385,912,Hospitalized,Hospitalized
+Karnataka,P51,52,Recovered,Recovered
+Karnataka,P51,53,Recovered,Recovered
+Karnataka,P513,955,Hospitalized,Hospitalized
+Karnataka,P514,909,Hospitalized,Hospitalized
+Karnataka,P514,910,Hospitalized,Hospitalized
+Karnataka,P514,911,Hospitalized,Hospitalized
+Karnataka,P629,954,Hospitalized,Hospitalized
+Karnataka,P630,631,Hospitalized,Hospitalized
+Karnataka,P632,633,Hospitalized,Hospitalized
+Karnataka,P634,635,Hospitalized,Hospitalized
+Karnataka,P689,1013,Hospitalized,Hospitalized
+Karnataka,P689,1014,Hospitalized,Hospitalized
+Karnataka,P689,1015,Hospitalized,Hospitalized
+Karnataka,P689,1016,Hospitalized,Hospitalized
+Karnataka,P689,1017,Hospitalized,Hospitalized
+Karnataka,P689,1212,Hospitalized,Hospitalized
+Karnataka,P689,1213,Hospitalized,Hospitalized
+Karnataka,P689,1214,Hospitalized,Hospitalized
+Karnataka,P689,1215,Hospitalized,Hospitalized
+Karnataka,P689,1421,Hospitalized,Hospitalized
+Karnataka,P689,1422,Hospitalized,Hospitalized
+Karnataka,P689,1716,Hospitalized,Hospitalized
+Karnataka,P689,1717,Hospitalized,Hospitalized
+Karnataka,P689,1950,Hospitalized,Hospitalized
+Karnataka,P689,1951,Hospitalized,Hospitalized
+Karnataka,P74,116,Recovered,Recovered
+Karnataka,P74,137,Recovered,Recovered
+Karnataka,P756,3232,Hospitalized,Hospitalized
+Karnataka,P756,3233,Hospitalized,Hospitalized
+Karnataka,P757,1418,Hospitalized,Hospitalized
+Karnataka,P758,1211,Hospitalized,Hospitalized
+Kerala,P108,228,Hospitalized,Hospitalized
+Kerala,P108,229,Recovered,Recovered
+Kerala,P108,230,Recovered,Recovered
+Kerala,P108,231,Hospitalized,Hospitalized
+Kerala,P108,232,Hospitalized,Hospitalized
+Kerala,P108,467,Hospitalized,Hospitalized
+Kerala,P117,241,Hospitalized,Hospitalized
+Kerala,P117,242,Hospitalized,Hospitalized
+Kerala,P117,243,Hospitalized,Hospitalized
+Kerala,P117,244,Hospitalized,Hospitalized
+Kerala,P1262,2208,Hospitalized,Hospitalized
+Kerala,P1262,2209,Hospitalized,Hospitalized
+Kerala,P1262,2210,Hospitalized,Hospitalized
+Kerala,P1263,2211,Hospitalized,Hospitalized
+Kerala,P316,709,Recovered,Recovered
+Kerala,P35,36,Recovered,Recovered
+Kerala,P35,37,Recovered,Recovered
+Kerala,P35,38,Recovered,Recovered
+Kerala,P35,39,Recovered,Recovered
+Kerala,"P35, P36, P37",49,Recovered,Recovered
+Kerala,"P35, P36, P37",50,Hospitalized,Hospitalized
+Kerala,"P36, P37, P38",56,Recovered,Recovered
+Kerala,"P36, P37, P38",57,Recovered,Recovered
+Kerala,"P36, P37, P38",58,Recovered,Recovered
+Kerala,"P36, P37, P38",59,Recovered,Recovered
+Kerala,P380,554,Hospitalized,Hospitalized
+Kerala,P380,623,Hospitalized,Hospitalized
+Kerala,P43,54,Recovered,Recovered
+Kerala,P43,55,Recovered,Recovered
+Kerala,P469,714,Hospitalized,Hospitalized
+Kerala,P56,555,Recovered,Recovered
+Kerala,P713,1262,Hospitalized,Hospitalized
+Kerala,P713,1263,Hospitalized,Hospitalized
+Kerala,P809,1450,Hospitalized,Hospitalized
+Ladakh,P132,290,Hospitalized,Hospitalized
+Ladakh,P146,145,Hospitalized,Hospitalized
+Madhya Pradesh,P248,249,Hospitalized,Hospitalized
+Madhya Pradesh,P248,250,Hospitalized,Hospitalized
+Madhya Pradesh,P248,394,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,2869,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3072,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3073,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3074,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3075,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3076,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3099,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3100,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3101,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3102,Hospitalized,Hospitalized
+Madhya Pradesh,P2868,3103,Hospitalized,Hospitalized
+Madhya Pradesh,P362,586,Hospitalized,Hospitalized
+Madhya Pradesh,P573,574,Hospitalized,Hospitalized
+Madhya Pradesh,P573,575,Hospitalized,Hospitalized
+Madhya Pradesh,P577,776,Hospitalized,Hospitalized
+Maharashtra,P138,155,Hospitalized,Hospitalized
+Maharashtra,P1500,1507,Hospitalized,Hospitalized
+Maharashtra,P1500,1508,Hospitalized,Hospitalized
+Maharashtra,P1500,1509,Hospitalized,Hospitalized
+Maharashtra,P157,207,Hospitalized,Hospitalized
+Maharashtra,P272,343,Hospitalized,Hospitalized
+Maharashtra,P272,344,Hospitalized,Hospitalized
+Maharashtra,P272,345,Hospitalized,Hospitalized
+Maharashtra,P272,346,Hospitalized,Hospitalized
+Maharashtra,"P44, P45",60,Hospitalized,Hospitalized
+Maharashtra,"P44, P45",61,Hospitalized,Hospitalized
+Maharashtra,"P44, P45",62,Hospitalized,Hospitalized
+Maharashtra,"P44, P45",66,Hospitalized,Hospitalized
+Maharashtra,"P44, P45",67,Hospitalized,Hospitalized
+Maharashtra,P764,765,Hospitalized,Hospitalized
+Maharashtra,P764,766,Hospitalized,Hospitalized
+Maharashtra,P764,767,Hospitalized,Hospitalized
+Maharashtra,P764,768,Hospitalized,Hospitalized
+Maharashtra,P764,769,Hospitalized,Hospitalized
+Maharashtra,P764,770,Hospitalized,Hospitalized
+Maharashtra,P764,771,Hospitalized,Hospitalized
+Maharashtra,P764,772,Hospitalized,Hospitalized
+Maharashtra,P764,773,Hospitalized,Hospitalized
+Maharashtra,P764,774,Hospitalized,Hospitalized
+Maharashtra,P764,775,Hospitalized,Hospitalized
+Maharashtra,P77,93,Hospitalized,Hospitalized
+Maharashtra,P77,94,Hospitalized,Hospitalized
+Maharashtra,P78,88,Hospitalized,Hospitalized
+Maharashtra,P78,89,Hospitalized,Hospitalized
+Maharashtra,P78,98,Hospitalized,Hospitalized
+Maharashtra,P95,122,Hospitalized,Hospitalized
+Maharashtra,P95,123,Hospitalized,Hospitalized
+Punjab,P172,268,Hospitalized,Hospitalized
+Punjab,P182,304,Hospitalized,Hospitalized
+Punjab,P182,305,Hospitalized,Hospitalized
+Punjab,P182,306,Hospitalized,Hospitalized
+Punjab,P182,307,Hospitalized,Hospitalized
+Punjab,P182,308,Hospitalized,Hospitalized
+Punjab,P182,309,Hospitalized,Hospitalized
+Punjab,P182,311,Hospitalized,Hospitalized
+Punjab,P182,358,Hospitalized,Hospitalized
+Punjab,P182,359,Hospitalized,Hospitalized
+Punjab,P182,360,Hospitalized,Hospitalized
+Punjab,P182,361,Hospitalized,Hospitalized
+Punjab,P182,388,Hospitalized,Hospitalized
+Punjab,P182,488,Hospitalized,Hospitalized
+Punjab,P182,533,Hospitalized,Hospitalized
+Punjab,P182,534,Hospitalized,Hospitalized
+Punjab,P182,535,Hospitalized,Hospitalized
+Punjab,P201,267,Hospitalized,Hospitalized
+Punjab,P311,639,Hospitalized,Hospitalized
+Rajasthan,P1128,1129,Hospitalized,Hospitalized
+Rajasthan,P1128,1130,Hospitalized,Hospitalized
+Rajasthan,P160,161,Hospitalized,Hospitalized
+Rajasthan,P160,162,Hospitalized,Hospitalized
+Rajasthan,P218,219,Hospitalized,Hospitalized
+Rajasthan,P260,261,Hospitalized,Hospitalized
+Rajasthan,P260,262,Hospitalized,Hospitalized
+Rajasthan,P260,263,Hospitalized,Hospitalized
+Rajasthan,P260,264,Hospitalized,Hospitalized
+Rajasthan,P6,21,Recovered,Recovered
+Rajasthan,P726,737,Hospitalized,Hospitalized
+Rajasthan,P726,738,Hospitalized,Hospitalized
+Tamil Nadu,P1076,1077,Hospitalized,Hospitalized
+Tamil Nadu,P1076,1078,Hospitalized,Hospitalized
+Tamil Nadu,P1076,1079,Hospitalized,Hospitalized
+Tamil Nadu,P301,653,Hospitalized,Hospitalized
+Tamil Nadu,P301,750,Hospitalized,Hospitalized
+Tamil Nadu,P301,751,Hospitalized,Hospitalized
+Tamil Nadu,P301,1179,Hospitalized,Hospitalized
+Tamil Nadu,P301,1180,Hospitalized,Hospitalized
+Tamil Nadu,P301,1181,Hospitalized,Hospitalized
+Tamil Nadu,P301,1182,Hospitalized,Hospitalized
+Tamil Nadu,P301,1183,Hospitalized,Hospitalized
+Tamil Nadu,P301,1184,Hospitalized,Hospitalized
+Tamil Nadu,P301,1185,Hospitalized,Hospitalized
+Tamil Nadu,P301,1186,Hospitalized,Hospitalized
+Tamil Nadu,P301,1187,Hospitalized,Hospitalized
+Tamil Nadu,P301,1188,Hospitalized,Hospitalized
+Tamil Nadu,"P301, P302",502,Deceased,Deceased
+Tamil Nadu,P502,748,Hospitalized,Hospitalized
+Tamil Nadu,P502,749,Hospitalized,Hospitalized
+Tamil Nadu,P502,1174,Hospitalized,Hospitalized
+Tamil Nadu,P502,1175,Hospitalized,Hospitalized
+Tamil Nadu,P502,1176,Hospitalized,Hospitalized
+Tamil Nadu,P502,1177,Hospitalized,Hospitalized
+Tamil Nadu,P502,1178,Hospitalized,Hospitalized
+Tamil Nadu,P523,752,Hospitalized,Hospitalized
+Tamil Nadu,P596,597,Hospitalized,Hospitalized
+Tamil Nadu,P596,598,Hospitalized,Hospitalized
+Tamil Nadu,P596,599,Hospitalized,Hospitalized
+Tamil Nadu,P596,600,Hospitalized,Hospitalized
+Tamil Nadu,P653,1076,Hospitalized,Hospitalized
+Tamil Nadu,P717,718,Hospitalized,Hospitalized
+Tamil Nadu,P753,1390,Hospitalized,Hospitalized
+Tamil Nadu,P873,1389,Hospitalized,Hospitalized
+Telangana,P141,436,Hospitalized,Hospitalized
+Telangana,P191,299,Hospitalized,Hospitalized
+Telangana,P369,564,Hospitalized,Hospitalized
+Telangana,P370,570,Hospitalized,Hospitalized
+Telangana,P370,571,Hospitalized,Hospitalized
+Telangana,P525,646,Hospitalized,Hospitalized
+Telangana,P683,684,Hospitalized,Hospitalized
+Uttar Pradesh,P1131,1357,Hospitalized,Hospitalized
+Uttar Pradesh,P1131,1358,Hospitalized,Hospitalized
+Uttar Pradesh,P1131,1359,Hospitalized,Hospitalized
+Uttar Pradesh,P1131,1360,Hospitalized,Hospitalized
+Uttar Pradesh,P1131,1361,Hospitalized,Hospitalized
+Uttar Pradesh,P142,213,Hospitalized,Hospitalized
+Uttar Pradesh,P142,214,Hospitalized,Hospitalized
+Uttar Pradesh,P142,215,Hospitalized,Hospitalized
+Uttar Pradesh,P22,48,Hospitalized,Hospitalized
+Uttar Pradesh,P30,82,Hospitalized,Hospitalized
+Uttar Pradesh,P389,390,Hospitalized,Hospitalized
+Uttar Pradesh,P389,929,Hospitalized,Hospitalized
+Uttar Pradesh,P389,930,Hospitalized,Hospitalized
+Uttar Pradesh,P389,931,Hospitalized,Hospitalized
+Uttar Pradesh,P389,932,Hospitalized,Hospitalized
+Uttar Pradesh,P4,22,Hospitalized,Hospitalized
+Uttar Pradesh,P4,23,Recovered,Recovered
+Uttar Pradesh,P4,24,Recovered,Recovered
+Uttar Pradesh,P4,25,Recovered,Recovered
+Uttar Pradesh,P4,26,Recovered,Recovered
+Uttar Pradesh,P4,27,Hospitalized,Hospitalized
+Uttar Pradesh,P4,47,Recovered,Recovered
+Uttar Pradesh,P6,28,Hospitalized,Hospitalized
+Uttar Pradesh,P64,142,Hospitalized,Hospitalized
+Uttar Pradesh,P643,644,Hospitalized,Hospitalized
+Uttar Pradesh,P73,91,Hospitalized,Hospitalized
+Uttar Pradesh,P81,148,Hospitalized,Hospitalized
+Uttar Pradesh,P983,1018,Hospitalized,Hospitalized
+Uttar Pradesh,P983,1019,Hospitalized,Hospitalized
+Uttar Pradesh,P983,1020,Hospitalized,Hospitalized
+Uttar Pradesh,P983,1021,Hospitalized,Hospitalized
+West Bengal,P200,391,Recovered,Recovered
+West Bengal,P200,392,Hospitalized,Hospitalized
+West Bengal,P200,393,Hospitalized,Hospitalized
+West Bengal,P658,960,Hospitalized,Hospitalized
+West Bengal,P658,961,Hospitalized,Hospitalized

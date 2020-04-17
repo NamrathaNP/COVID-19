@@ -1,0 +1,724 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>COVID-19</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="assets/images/icon/favicon.ico">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/themify-icons.css">
+    <link rel="stylesheet" href="assets/css/metisMenu.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/slicknav.min.css">
+    <!-- amchart css -->
+    <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+    <!-- others css -->
+    <link rel="stylesheet" href="assets/css/typography.css">
+    <link rel="stylesheet" href="assets/css/default-css.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="index.css">
+
+ 
+
+    <!-- modernizr css -->
+    <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="https://code.highcharts.com/mapdata/countries/in/custom/in-all-disputed.js"></script>
+
+
+<script src="assets/js/vendor/jquery-2.2.4.min.js"></script>
+
+<script type="text/JavaScript" src='state.js'></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+   
+    
+
+  <style>
+ #indiamap {
+    height: 500px; 
+    min-width: 310px; 
+    max-width: 800px; 
+    margin: 0 auto; 
+}
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+  </style>  
+</head>
+
+<body>
+  
+    <!-- preloader area start -->
+    <div id="preloader">
+        <div class="loader"></div>
+    </div>
+    <!-- preloader area end -->
+    <!-- page container area start -->
+    <div class="page-container">
+        <!-- sidebar menu area start -->
+       
+        <!-- sidebar menu area end -->
+        <!-- main content area start -->
+        <div class="main-content">
+            <!-- header area start -->
+            <div class="header-area">
+                <div class="row align-items-center">
+                    <!-- nav and search button -->
+                    <div class="col-md-6 col-sm-8 clearfix">
+                     
+                  <a href="index.html"><img src="assets/images/icon/affine-logo.svg" alt="logo" style="height: 44px; "></a>
+
+                  <div class="search-box pull-right" style="margin-right: -566px;">
+                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                        <li class="nav-item">
+                          <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Report & Animation</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">SIR model & Forecasts</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false"> Clusteing</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="pills-profile2-tab" data-toggle="pill" href="#pills-profile2" role="tab" aria-controls="pills-profile2" aria-selected="false">Search</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" id="pills-contact2-tab" data-toggle="pill" href="#pills-contact2" role="tab" aria-controls="pills-contact2" aria-selected="false">About Affine</a>
+                          </li>
+                      </ul>
+                    
+                </div>
+                    </div>
+                    <!-- profile info & task notification -->
+                    <div class="col-md-6 col-sm-4 clearfix">
+                        <ul class="notification-area pull-right">
+                            <li id="full-view"><i class="ti-fullscreen" style="position: relative; top: -5px; left: 13px;"></i></li>
+                            <li id="full-view-exit"><i class="ti-zoom-out" style="position: relative; top: -5px; left: 13px;"></i></li>
+                        
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <!-- header area end -->
+            <!-- page title area start -->
+            <div class="page-title-area">
+                <div class="row align-items-center">
+                    <div class="col-sm-6">
+                        <div class="breadcrumbs-area clearfix">
+                            <h4 class="page-title pull-left">Dashboard</h4>
+                            <ul class="breadcrumbs pull-left">
+                                <li><a href="index.html">Home</a></li>
+                                <li><span>Dashboard</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 clearfix">
+                        <div class="user-profile pull-right" style="visibility: hidden;">
+                            <img class="avatar user-thumb" src="assets/images/author/avatar.png" alt="avatar" style="visibility: hidden;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- page title area end -->
+            <div class="main-content-inner">
+                <!-- sales report area start -->
+                <div class="sales-report-area mt-5 mb-5">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="single-report mb-xs-30">
+                                <div class="s-report-inner pr--20 pt--30 mb-3">
+                                    <div class="icon"><i class="fa fa-check"></i></div>
+                                    <div class="s-report-title d-flex justify-content-between">
+                                        <h4 class="header-title mb-0">infected</h4>
+                                        <p>24 H</p>
+                                    </div>
+                                    <div class="d-flex justify-content-between pb-2">
+                                        <h2>8890</h2>
+                                        <span>- 45.87</span>
+                                    </div>
+                                </div>
+                                <!-- <canvas id="coin_sales1" height="100"></canvas> -->
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="single-report mb-xs-30">
+                                <div class="s-report-inner pr--20 pt--30 mb-3">
+                                    <div class="icon"><i class="fa fa-undo"></i></div>
+                                    <div class="s-report-title d-flex justify-content-between">
+                                        <h4 class="header-title mb-0">Recovered</h4>
+                                        <p>24 H</p>
+                                    </div>
+                                    <div class="d-flex justify-content-between pb-2">
+                                        <h2>1020</h2>
+                                        <span>- 45.87</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="single-report">
+                                <div class="s-report-inner pr--20 pt--30 mb-3">
+                                    <div class="icon"><i class="fa fa-dead"></i></div>
+                                    <div class="s-report-title d-flex justify-content-between">
+                                        <h4 class="header-title mb-0">Deceased</h4>
+                                        <p>24 H</p>
+                                    </div>
+                                    <div class="d-flex justify-content-between pb-2">
+                                        <h2>290</h2>
+                                        <span>- 45.87</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="single-report">
+                                <div class="s-report-inner pr--20 pt--30 mb-3">
+                                    <div class="icon"><i class="fa fa-exclamation-triangle"></i></div>
+                                    <div class="s-report-title d-flex justify-content-between">
+                                        <h4 class="header-title mb-0">Susecptibles</h4>
+                                        <p>24 H</p>
+                                    </div>
+                                    <div class="d-flex justify-content-between pb-2">
+                                        <h2>1.35 B</h2>
+                                        <span>- 45.87</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- sales report area end -->
+                <!-- overview area start -->
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="header-title mb-0">Multi-line Chart</h4>
+                                <br>
+                                <span style="position: relative; left: 155px;"><input class="country" type="radio" name="country"  value="India" checked="checked"
+                                    required><label>India</label></span>
+                                    <span style="position: relative; left: 450px;"> <input class="country" type="radio" name="country"  value="States"
+                                    required><label>States</label></span>
+                             
+                                <span id="selection" style="position: relative; left: 450px;">
+                                    <select id="listBox" onchange='selct_district(this.value)' ></select>
+                                </span>
+                                
+
+                                <br>
+                                <br>
+                                <figure class="highcharts-figure">
+                                    <div id="multiaxis"></div>
+                                     <!-- <p class="highcharts-description">
+                                      Multi-Axes chart.
+                                    </p>  -->
+                                  </figure>
+                            </div>
+                        </div>
+                    </div>
+                       </div>
+                   
+                       <br>
+                    </br>
+
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h4 class="header-title mb-0">India Map Chart</h4> 
+                                    <br>
+                                    <br>
+                                     <div id="indiamap">
+                                     
+                                    
+                                    </div>   
+                              
+                            
+                        </div>
+                        
+                           </div>
+               
+          
+        
+              
+                </div>
+
+                <div class="col-xl-6 col-lg-6">
+                    <div class="card">
+                        <div class="card-body" style="height: 614px; position: relative; top:75px">
+
+                                <h4 class="header-title">Heat Map</h4>
+                                <div id="accordion6" class="according gradiant-bg">
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <a class="card-link" data-toggle="collapse" href="#accordion61">
+                                                Heat Map India:</a>
+                                        </div>
+                                        <div id="accordion61" class="collapse show" data-parent="#accordion6">
+                                            <div class="card-body">
+                                                 Represents the risk of running short of available hospital beds by state.
+                                                The risk is estimated by Hospital bed availability index which is: (Total available beds – Infected count)/Susceptibles count.
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                              
+                           
+                                </div>
+                            </div>   
+                        </div>
+                    </div>
+
+                            </div>
+                            </div>
+                            </div>
+                <!-- row area start-->
+            </div>
+        </div>
+        <!-- main content area end -->
+        <!-- footer area start-->
+        <footer>
+            <div class="footer-area">
+                <p style="text-align: center;">Copyright © 2020 Affine Analytics | Powered by Affine Analytics Private Ltd</p>
+            </div>
+        </footer>
+        <!-- footer area end-->
+    </div>
+    <!-- page container area end -->
+    <!-- offset area start -->
+ 
+    <!-- offset area end -->
+    <!-- jquery latest version -->
+    <script src="assets/js/vendor/jquery-2.2.4.min.js"></script>
+    <!-- bootstrap 4 js -->
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/metisMenu.min.js"></script>
+    <script src="assets/js/jquery.slimscroll.min.js"></script>
+    <script src="assets/js/jquery.slicknav.min.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/scripts.js"></script>
+  
+
+    <script>
+    </script>
+  
+   
+    <!-- others plugins -->
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/scripts.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+
+    
+<script>
+
+
+
+//     Function.prototype.extend = function(fn) {
+//   var self = this;
+//   return function(){
+//     self.apply(this, arguments);
+//     fn.apply(this, arguments);
+//   };
+// };
+
+
+// window.onload = function() {
+  
+//   $('#listBox').on('change', function(){
+
+      
+// var values=$(this).val();
+
+
+ 
+// }
+
+//  });
+
+
+// window.onload = window.onload.extend(function() {
+
+
+    fetch("./heatmap.json")
+     .then(function(resp) {
+         return resp.json();
+     })
+     .then(function(heatmap) {
+         console.log(heatmap);
+
+          // debugger
+         
+   
+    var heatmap2 = heatmap.response;
+    console.log(heatmap2);
+     
+    var datestring =[]
+    var suscept2 = []
+    var removed2 = []
+    var infected2 = []
+    var total_beds2= []
+    //  for (var key in data)
+    //    datestring.push(key);
+    for(i=0; i< heatmap2.length; i++) {
+       var finaltime = heatmap2[i].date;
+       var suscept = heatmap2[i].susceptibles;
+       var removed = heatmap2[i].removed;
+       var infected = heatmap2[i].infected;
+       var total_beds = heatmap2[i].total_beds;
+        datestring.push(finaltime);
+        suscept2.push(suscept);
+        removed2.push(removed);
+        infected2.push(infected);
+        total_beds2.push(total_beds);
+    } 
+    //  console.log(datestring);
+    //  console.log(suscept2);
+    //  console.log(removed2);
+    //  console.log(infected2);
+          datestring1 = [];
+          suscept3 = [];
+          removed3 = [];
+          infected3 = [];
+          total_beds3 = [];
+     for(i=0; i< datestring.length; i++) {
+         datestring1.push(datestring);
+     }
+     console.log(datestring1[0]);
+
+
+     for(i=0; i< suscept2.length; i++) {
+         suscept3.push(suscept2);
+     }
+     console.log(suscept3[0]);
+
+     for(i=0; i< removed2.length; i++) {
+         removed3.push(removed2);
+     }
+     console.log(removed3[0]);
+
+     for(i=0; i< infected2.length; i++) {
+         infected3.push(infected2);
+     }
+     console.log(infected3[0]);
+
+     for(i=0; i< total_beds2.length; i++) {
+         total_beds3.push(total_beds2);
+     }
+     console.log(total_beds3[0]);
+
+
+     var removedmapdata = removed3[1];
+     var infectedmapdata = infected3[1];
+     var susceptiblesmapdata = suscept3[1];
+     var total_bedsmapdata = total_beds3[1];
+     console.log(total_bedsmapdata)
+
+
+    // Prepare demo data
+    // Data is joined to map using value of 'hc-key' property by default.
+    // See API docs for 'joinBy' for more info on linking data and map.
+    var data = [
+        ['madhya pradesh', total_bedsmapdata[0]],
+        ['uttar pradesh', total_bedsmapdata[1]],
+        ['karnataka', total_bedsmapdata[2]],
+        ['nagaland', total_bedsmapdata[3]],
+        ['bihar', total_bedsmapdata[4]],
+        ['lakshadweep', total_bedsmapdata[5]],
+        ['andaman and nicobar', total_bedsmapdata[6]],
+        ['assam', total_bedsmapdata[7]],
+        ['west bengal', total_bedsmapdata[8]],
+        ['puducherry', total_bedsmapdata[9]],
+        ['daman and diu', total_bedsmapdata[10]],
+        ['gujarat', total_bedsmapdata[11]],
+        ['rajasthan',total_bedsmapdata[12]],
+        ['dadara and nagar havelli', total_bedsmapdata[13]],
+        ['chhattisgarh', total_bedsmapdata[14]],
+        ['tamil nadu', total_bedsmapdata[15]],
+        ['chandigarh', total_bedsmapdata[16]],
+        ['punjab', total_bedsmapdata[17]],
+        ['haryana', total_bedsmapdata[18]],
+        ['andhra pradesh', total_bedsmapdata[19]],
+        ['maharashtra',total_bedsmapdata[20]],
+        ['himachal pradesh',total_bedsmapdata[21]],
+        ['meghalaya', total_bedsmapdata[22]],
+        ['kerala', total_bedsmapdata[23]],
+        ['telangana', total_bedsmapdata[24]],
+        ['mizoram', total_bedsmapdata[25]],
+        ['tripura', total_bedsmapdata[26]],
+        ['manipur', total_bedsmapdata[27]],
+        ['arunanchal pradesh', total_bedsmapdata[28]],
+        ['jharkhand', total_bedsmapdata[29]],
+        ['goa', total_bedsmapdata[30]],
+        ['nct of delhi', total_bedsmapdata[31]],
+        ['odisha', total_bedsmapdata[32]],
+        ['jammu and kashmir', total_bedsmapdata[33]],
+        ['sikkim', total_bedsmapdata[34]],
+        ['uttarakhand', total_bedsmapdata[35]]
+    ];
+    
+    const data1 = [
+                            [removedmapdata[0]],
+                            [removedmapdata[1]],
+                            [removedmapdata[2]],
+                            [removedmapdata[3]],
+                            [removedmapdata[4]],                           
+                            [removedmapdata[5]],                          
+                            [removedmapdata[6]],                           
+                            [removedmapdata[7]],                           
+                            [removedmapdata[8]],                           
+                            [removedmapdata[9]],                           
+                            [removedmapdata[10]],                           
+                            [removedmapdata[11]],                           
+                            [removedmapdata[12]],                           
+                            [removedmapdata[13]],                           
+                            [removedmapdata[14]],                           
+                            [removedmapdata[15]],                           
+                            [removedmapdata[16]],                           
+                            [removedmapdata[17]],                           
+                            [removedmapdata[18]],                           
+                            [removedmapdata[19]],                           
+                            [removedmapdata[20]],                           
+                            [removedmapdata[21]],                           
+                            [removedmapdata[22]],                           
+                            [removedmapdata[23]],                           
+                            [removedmapdata[24]],                           
+                            [removedmapdata[25]],                           
+                            [removedmapdata[26]],                           
+                            [removedmapdata[27]],                           
+                            [removedmapdata[28]],                          
+                            [removedmapdata[29]],                           
+                            [removedmapdata[30]],                           
+                            [removedmapdata[31]],                           
+                            [removedmapdata[32]],                           
+                            [removedmapdata[33]],                           
+                            [removedmapdata[34]],                           
+                            [removedmapdata[35]]
+
+
+                           
+
+                    ];
+    
+    
+            const data2 = [
+                            [susceptiblesmapdata[1]],
+                            [susceptiblesmapdata[1]],
+                            [susceptiblesmapdata[2]],
+                            [susceptiblesmapdata[3]],
+                            [susceptiblesmapdata[4]],                           
+                            [susceptiblesmapdata[5]],                          
+                            [susceptiblesmapdata[6]],                           
+                            [susceptiblesmapdata[7]],                           
+                            [susceptiblesmapdata[8]],                           
+                            [susceptiblesmapdata[9]],                           
+                            [susceptiblesmapdata[10]],                           
+                            [susceptiblesmapdata[11]],                           
+                            [susceptiblesmapdata[12]],                           
+                            [susceptiblesmapdata[13]],                           
+                            [susceptiblesmapdata[14]],                           
+                            [susceptiblesmapdata[15]],                           
+                            [susceptiblesmapdata[16]],                           
+                            [susceptiblesmapdata[17]],                           
+                            [susceptiblesmapdata[18]],                           
+                            [susceptiblesmapdata[19]],                           
+                            [susceptiblesmapdata[20]],                           
+                            [susceptiblesmapdata[21]],                           
+                            [susceptiblesmapdata[22]],                           
+                            [susceptiblesmapdata[23]],                           
+                            [susceptiblesmapdata[24]],                           
+                            [susceptiblesmapdata[25]],                           
+                            [susceptiblesmapdata[26]],                           
+                            [susceptiblesmapdata[27]],                           
+                            [susceptiblesmapdata[28]],                          
+                            [susceptiblesmapdata[29]],                           
+                            [susceptiblesmapdata[30]],                           
+                            [susceptiblesmapdata[31]],                           
+                            [susceptiblesmapdata[32]],                           
+                            [susceptiblesmapdata[33]],                           
+                            [susceptiblesmapdata[34]],                           
+                            [susceptiblesmapdata[35]]
+
+                    ];	
+    
+                    const data3 = [
+                            [infectedmapdata[0]],
+                            [infectedmapdata[1]],
+                            [infectedmapdata[2]],
+                            [infectedmapdata[3]],
+                            [infectedmapdata[4]],                           
+                            [infectedmapdata[5]],                          
+                            [infectedmapdata[6]],                           
+                            [infectedmapdata[7]],                           
+                            [infectedmapdata[8]],                           
+                            [infectedmapdata[9]],                           
+                            [infectedmapdata[10]],                           
+                            [infectedmapdata[11]],                           
+                            [infectedmapdata[12]],                           
+                            [infectedmapdata[13]],                           
+                            [infectedmapdata[14]],                           
+                            [infectedmapdata[15]],                           
+                            [infectedmapdata[16]],                           
+                            [infectedmapdata[17]],                           
+                            [infectedmapdata[18]],                           
+                            [infectedmapdata[19]],                           
+                            [infectedmapdata[20]],                           
+                            [infectedmapdata[21]],                           
+                            [infectedmapdata[22]],                           
+                            [infectedmapdata[23]],                           
+                            [infectedmapdata[24]],                           
+                            [infectedmapdata[25]],                           
+                            [infectedmapdata[26]],                           
+                            [infectedmapdata[27]],                           
+                            [infectedmapdata[28]],                          
+                            [infectedmapdata[29]],                           
+                            [infectedmapdata[30]],                           
+                            [infectedmapdata[31]],                           
+                            [infectedmapdata[32]],                           
+                            [infectedmapdata[33]],                           
+                            [infectedmapdata[34]],                           
+                            [infectedmapdata[35]]
+      
+                    ];	
+                    
+                    const data4 = [
+                            [total_bedsmapdata[0]],
+                            [total_bedsmapdata[1]],
+                            [total_bedsmapdata[2]],
+                            [total_bedsmapdata[3]],
+                            [total_bedsmapdata[4]],                           
+                            [total_bedsmapdata[5]],                          
+                            [total_bedsmapdata[6]],                           
+                            [total_bedsmapdata[7]],                           
+                            [total_bedsmapdata[8]],                           
+                            [total_bedsmapdata[9]],                           
+                            [total_bedsmapdata[10]],                           
+                            [total_bedsmapdata[11]],                           
+                            [total_bedsmapdata[12]],                           
+                            [total_bedsmapdata[13]],                           
+                            [total_bedsmapdata[14]],                           
+                            [total_bedsmapdata[15]],                           
+                            [total_bedsmapdata[16]],                           
+                            [total_bedsmapdata[17]],                           
+                            [total_bedsmapdata[18]],                           
+                            [total_bedsmapdata[19]],                           
+                            [total_bedsmapdata[20]],                           
+                            [total_bedsmapdata[21]],                           
+                            [total_bedsmapdata[22]],                           
+                            [total_bedsmapdata[23]],                           
+                            [total_bedsmapdata[24]],                           
+                            [total_bedsmapdata[25]],                           
+                            [total_bedsmapdata[26]],                           
+                            [total_bedsmapdata[27]],                           
+                            [total_bedsmapdata[28]],                          
+                            [total_bedsmapdata[29]],                           
+                            [total_bedsmapdata[30]],                           
+                            [total_bedsmapdata[31]],                           
+                            [total_bedsmapdata[32]],                           
+                            [total_bedsmapdata[33]],                           
+                            [total_bedsmapdata[34]],                           
+                            [total_bedsmapdata[35]]
+      
+                    ];						
+           
+    
+            
+             data.forEach(function(el, i) {
+             
+               el.push(data1[i])
+              });
+              
+             console.log(data)
+              
+               data.forEach(function(el, i) {
+                //  console.log(el)
+               el.push(data2[i])
+              });
+              
+              data.forEach(function(el, i) {
+                //  console.log(el)
+               el.push(data3[i])
+              });
+              
+              console.log(data)
+
+              data.forEach(function(el, i) {
+             
+             el.push(data4[i])
+            });
+            
+           console.log(data)
+    
+   
+   
+// India Map chart
+    Highcharts.mapChart('indiamap', {
+        
+
+        chart: {
+            map: 'countries/in/custom/in-all-disputed'
+        },
+    
+        title: {
+            text: ''
+        },
+    
+        // subtitle: {
+        //     text: 'Source map: <a href="http://code.highcharts.com/mapdata/countries/in/custom/in-all-disputed.js">India with disputed territories</a>'
+        // },
+    
+        // mapNavigation: {
+        //     enabled: true,
+        //     buttonOptions: {
+        //         verticalAlign: 'bottom'
+        //     }
+        // },
+    
+        colorAxis: {
+            min: 0
+        },
+    
+        series: [{
+            keys: ['hc-key', 'value', 'Removed','Susecptibles', 'infected', 'total_beds'],
+            data: data,
+            name: '',
+            states: {
+                hover: {
+                    color: '#BADA55'
+                }
+            }
+        }],
+                                
+                    tooltip: {
+                  pointFormat: ' {point.name} {point.value}  <br>Removed: {point.Removed} <br>Susecptibles: {point.Susecptibles} <br>infected: {point.infected}, <br>total beds: {point.total_beds}'
+               },
+    });
+
+
+// }
+            
+//         });
+
+
+     });
+
+
+
+    </script>
+    <script type="text/javascript" src="index.js"></script>
+   
+</body>
+
+</html>

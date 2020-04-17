@@ -1,0 +1,354 @@
+{
+    "response": [
+{
+    "confirmed": 1164,
+    "date": "17-04-2020",
+    "infected": 1039,
+    "population": 72626809,
+    "removed": 55,
+    "state": "madhya pradesh",
+    "susceptibles": 33407674,
+    "total_beds": 38140
+},
+{
+    "confirmed": 359,
+    "date": "17-04-2020",
+    "infected": 258,
+    "population": 61095297,
+    "removed": 13,
+    "state": "karnataka",
+    "susceptibles": 33407674,
+    "total_beds": 56333
+},
+{
+    "confirmed": 1,
+    "date": "17-04-2020",
+    "infected": 1,
+    "population": 1978502,
+    "removed": 0,
+    "state": "nagaland",
+    "susceptibles": 33407674,
+    "total_beds": 1944
+},
+{
+    "confirmed": 387,
+    "date": "17-04-2020",
+    "infected": 173,
+    "population": 104099452,
+    "removed": 214,
+    "state": "bihar",
+    "susceptibles": 33407674,
+    "total_beds": 17796
+},
+{
+    "confirmed": 83,
+    "date": "17-04-2020",
+    "infected": 45,
+    "population": 64473,
+    "removed": 1,
+    "state": "lakshadweep",
+    "susceptibles": 33407674,
+    "total_beds": 250
+},
+{
+    "confirmed": 12,
+    "date": "17-04-2020",
+    "infected": 1,
+    "population": 380581,
+    "removed": 0,
+    "state": "andaman and nicobar",
+    "susceptibles": 33407674,
+    "total_beds": 1246
+},
+{
+    "confirmed": 34,
+    "date": "17-04-2020",
+    "infected": 28,
+    "population": 31205576,
+    "removed": 1,
+    "state": "assam",
+    "susceptibles": 33407674,
+    "total_beds": 19115
+},
+{
+    "confirmed": 255,
+    "date": "17-04-2020",
+    "infected": 194,
+    "population": 91276115,
+    "removed": 10,
+    "state": "west bengal",
+    "susceptibles": 33407674,
+    "total_beds": 51163
+},
+{
+    "confirmed": 7,
+    "date": "17-04-2020",
+    "infected": 6,
+    "population": 1247953,
+    "removed": 0,
+    "state": "puducherry",
+    "susceptibles": 33407674,
+    "total_beds": 4462
+},
+{
+    "confirmed": 1,
+    "date": "17-04-2020",
+    "infected": 1,
+    "population": 385764,
+    "removed": 0,
+    "state": "daman and diu",
+    "susceptibles": 33407674,
+    "total_beds": 298
+},
+{
+    "confirmed": 1021,
+    "date": "17-04-2020",
+    "infected": 909,
+    "population": 60439692,
+    "removed": 38,
+    "state": "gujarat",
+    "susceptibles": 33407674,
+    "total_beds": 41129
+},
+{
+    "confirmed": 1193,
+    "date": "17-04-2020",
+    "infected": 993,
+    "population": 68548437,
+    "removed": 17,
+    "state": "rajasthan",
+    "susceptibles": 33407674,
+    "total_beds": 51844
+},
+{
+    "confirmed": 2,
+    "date": "17-04-2020",
+    "infected": 2,
+    "population": 203567,
+    "removed": 0,
+    "state": "dadara and nagar havelli",
+    "susceptibles": 33407674,
+    "total_beds": 568
+},
+{
+    "confirmed": 36,
+    "date": "17-04-2020",
+    "infected": 12,
+    "population": 25545198,
+    "removed": 0,
+    "state": "chhattisgarh",
+    "susceptibles": 33407674,
+    "total_beds": 14354
+},
+{
+    "confirmed": 1323,
+    "date": "17-04-2020",
+    "infected": 1025,
+    "population": 72147030,
+    "removed": 15,
+    "state": "tamil nadu",
+    "susceptibles": 33407674,
+    "total_beds": 72616
+},
+{
+    "confirmed": 21,
+    "date": "17-04-2020",
+    "infected": 12,
+    "population": 1055450,
+    "removed": 0,
+    "state": "chandigarh",
+    "susceptibles": 33407674,
+    "total_beds": 3756
+},
+{
+    "confirmed": 211,
+    "date": "17-04-2020",
+    "infected": 167,
+    "population": 27743338,
+    "removed": 14,
+    "state": "punjab",
+    "susceptibles": 33407674,
+    "total_beds": 13527
+},
+{
+    "confirmed": 223,
+    "date": "17-04-2020",
+    "infected": 134,
+    "population": 25351462,
+    "removed": 3,
+    "state": "haryana",
+    "susceptibles": 13841,
+    "total_beds": 77717
+},
+{
+    "confirmed": 572,
+    "date": "17-04-2020",
+    "infected": 523,
+    "population": 49577103,
+    "removed": 14,
+    "state": "andhra pradesh",
+    "susceptibles": 33407674,
+    "total_beds": 60799
+},
+{
+    "confirmed": 3202,
+    "date": "17-04-2020",
+    "infected": 2708,
+    "population": 112374333,
+    "removed": 194,
+    "state": "maharashtra",
+    "susceptibles": 33407674,
+    "total_beds": 68998
+},
+{
+    "confirmed": 35,
+    "date": "17-04-2020",
+    "infected": 17,
+    "population": 6864602,
+    "removed": 2,
+    "state": "himachal pradesh",
+    "susceptibles": 33407674,
+    "total_beds": 8706
+},
+{
+    "confirmed": 9,
+    "date": "17-04-2020",
+    "infected": 8,
+    "population": 2966889,
+    "removed": 1,
+    "state": "meghalaya",
+    "susceptibles": 33407674,
+    "total_beds": 4585
+},
+{
+    "confirmed": 395,
+    "date": "17-04-2020",
+    "infected": 138,
+    "population": 33406061,
+    "removed": 2,
+    "state": "kerala",
+    "susceptibles": 33407674,
+    "total_beds": 39511
+},
+{
+    "confirmed": 700,
+    "date": "17-04-2020",
+    "infected": 495,
+    "population": 35003674,
+    "removed": 18,
+    "state": "telangana",
+    "susceptibles": 33407674,
+    "total_beds": 17358
+},
+{
+    "confirmed": 1,
+    "date": "17-04-2020",
+    "infected": 1,
+    "population": 1097206,
+    "removed": 0,
+    "state": "mizoram",
+    "susceptibles": 33407674,
+    "total_beds": 2312
+},
+{
+    "confirmed": 2,
+    "date": "17-04-2020",
+    "infected": 1,
+    "population": 3673917,
+    "removed": 0,
+    "state": "tripura",
+    "susceptibles": 33407674,
+    "total_beds": 4895
+},
+{
+    "confirmed": 2,
+    "date": "17-04-2020",
+    "infected": 1,
+    "population": 2570390,
+    "removed": 0,
+    "state": "manipur",
+    "susceptibles": 33407674,
+    "total_beds": 2562
+},
+{
+    "confirmed": 1,
+    "date": "17-04-2020",
+    "infected": 0,
+    "population": 1383727,
+    "removed": 0,
+    "state": "arunanchal pradesh",
+    "susceptibles": 33407674,
+    "total_beds": 2320
+},
+{
+    "confirmed": 29,
+    "date": "17-04-2020",
+    "infected": 27,
+    "population": 32988134,
+    "removed": 2,
+    "state": "jharkhand",
+    "susceptibles": 33407674,
+    "total_beds": 7404
+},
+{
+    "confirmed": 7,
+    "date": "17-04-2020",
+    "infected": 1,
+    "population": 1458545,
+    "removed": 0,
+    "state": "goa",
+    "susceptibles": 33407674,
+    "total_beds": 2666
+},
+{
+    "confirmed": 1640,
+    "date": "17-04-2020",
+    "infected": 1550,
+    "population": 16787941,
+    "removed": 38,
+    "state": "nct of delhi",
+    "susceptibles": 33407674,
+    "total_beds": 20572
+},
+{
+    "confirmed": 60,
+    "date": "17-04-2020",
+    "infected": 40,
+    "population": 41974219,
+    "removed": 1,
+    "state": "odisha",
+    "susceptibles": 33407674,
+    "total_beds": 16497
+},
+{
+    "confirmed": 314,
+    "date": "17-04-2020",
+    "infected": 271,
+    "population": 12267032,
+    "removed": 5,
+    "state": "jammu and kashmir",
+    "susceptibles": 33407674,
+    "total_beds": 11342
+},
+{
+    "confirmed": 0,
+    "date": "17-04-2020",
+    "infected": 0,
+    "population": 610577,
+    "removed": 0,
+    "state": "sikkim",
+    "susceptibles": 33407674,
+    "total_beds": 1145
+},
+{
+    "confirmed": 40,
+    "date": "17-04-2020",
+    "infected": 31,
+    "population": 10086292,
+    "removed": 0,
+    "state": "uttarakhand",
+    "susceptibles": 33407674,
+    "total_beds": 6660
+} 
+] 
+}
